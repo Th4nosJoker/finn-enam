@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.sites-runtime/
+.local/
+data/raw/
+*.tar.gz
+*.log
+.DS_Store
+
+# Public source export excludes private build conversations and full local corpus.
+docs/build-history/
+data/processed/documents.json

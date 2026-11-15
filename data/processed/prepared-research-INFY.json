@@ -1,0 +1,1397 @@
+{
+  "symbol": "INFY",
+  "headline": "AI and deal wins are growing, but muted CC growth and a lower FY2027 outlook warrant a careful reading of the headline INR numbers.",
+  "views": {
+    "business": {
+      "summary": "A sector-diversified technology-services business whose largest revenue pools remain Financial Services, Manufacturing and Energy/Utilities/Resources.",
+      "points": [
+        {
+          "text": "The company describes its operations as end-to-end business solutions across Financial Services, Manufacturing, Retail, Energy/Utilities/Resources, Communication, Hi-Tech and Life Sciences.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 80,
+              "quote": "The Company’s operations predominantly relate to providing end-to-end business solutions to enable clients to enhance performance of their business.",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 80,
+              "quote": "Business segments of the Company are primarily enterprises in Financial Services and Insurance; Manufacturing; Retail",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Financial Services supplied 28.0% of Q2 FY2027 revenue, Manufacturing 16.0%, and Energy/Utilities/Resources 14.2%; Life Sciences reached 8.4%. These are revenue-mix figures, not segment profit margins.",
+          "citations": [
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 3,
+              "quote": "Financial Services 28.0 27.9 27.7",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 3,
+              "quote": "Manufacturing 16.0 15.9 16.5",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 3,
+              "quote": "Energy, Utilities, Resources & Services 14.2 13.4 13.4",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 3,
+              "quote": "Life Sciences 8.4 8.0 6.4",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Revenue remains geographically concentrated: North America supplied 54.6% of Q2 FY2027 sales and Europe 32.5%, compared with 2.8% from India.",
+          "citations": [
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 3,
+              "quote": "54.6 56.4 56.3",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 3,
+              "quote": "32.5 32.1 31.7",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 3,
+              "quote": "2.8 2.5 3.1",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "Segment and geography mix are Q2 FY2027 disclosures. They do not establish profitability of every client, geography or service line."
+      ]
+    },
+    "financial": {
+      "summary": "Q2 FY2027 revenue was ₹ 49,244 crore and owner-attributable PAT ₹ 7,823 crore; reported INR growth materially exceeded constant-currency growth.",
+      "points": [
+        {
+          "text": "For the quarter ended 30 Sep 2026, revenue was ₹ 49,244 crore, up 10.7%YoY and 2.1%QoQ; PBT was ₹ 11,063 crore, up 8.2%YoY and 0.3%QoQ.",
+          "citations": [
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 6,
+              "quote": "49,244 44,490 10.7% 48,211 2.1%",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 6,
+              "quote": "11,063 10,229 8.2% 11,028 0.3%",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Total consolidated PAT was ₹ 7,838 crore, comprising₹ 7,823 crore attributable to owners and ₹ 15 crore to non-controlling interests. The owner-attributable figure grew 6.2%YoY and 0.7%QoQ; those growth rates must not be applied to total PAT without recalculation.",
+          "citations": [
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 18,
+              "quote": "7,823 15 7,838",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 6,
+              "quote": "7,823 7,364 6.2% 7,769 0.7%",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The company reported 21.0% operating margin for Q2, versus 21.1% in Q1. This is an operating-profit metric; the latest filing does not report it as EBITDA.",
+          "citations": [
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 6,
+              "quote": "21.0 21.0 0.0% 21.1 -0.1%",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 6,
+              "quote": "Operating profit",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "EBITDA is not labelled in the latest results filing. Operating profit is preserved separately.",
+        "INR and USD tables, consolidated/standalone statements and quarterly/half-year columns coexist in the source."
+      ]
+    },
+    "trajectory": {
+      "summary": "The three-year INR revenue and profit trend is upward, while the latest constant-currency growth and guidance show slower underlying momentum.",
+      "points": [
+        {
+          "text": "Consolidated revenue increased from ₹ 153,670 crore in FY2024 to ₹ 162,990 crore in FY2025 and ₹ 178,650 crore in FY2026. Owner-attributable profit moved from ₹ 26,233 crore to ₹ 26,713 crore and ₹ 29,440 crore over those years.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 17,
+              "quote": "Revenues 1,78,650 1,62,990 1,53,670",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 17,
+              "quote": "Net profit# 29,440 26,713 26,233",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "FY2026 INR revenue grew 9.6%, but constant-currency growth was 3.1%. Management also said annual volumes were flattish, with growth led by realization; the INR headline therefore does not imply equivalent volume growth.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 78,
+              "quote": "a growth of 9.6%.",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 78,
+              "quote": "Our consolidated revenues for fiscal 2026 in constant currency grew by 3.1%.",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "9245fc9faa070d829354",
+              "page": 28,
+              "quote": "Volumes for the year were flattish, growth was led by increase in realization",
+              "title": "INFY Earnings-call transcript Apr 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Quarterly CC YoY growth slowed from 2.4% in Q1 FY2027 to 1.5% in Q2, while FY2027 CC guidance moved from 1.5%–3% in July to 1%–2% in October. This is a weaker growth outlook despite continued positive revenue growth.",
+          "citations": [
+            {
+              "documentId": "d72728d562503f29650e",
+              "page": 5,
+              "quote": "Our revenue growth for Q1 was at 2.4% Y-on-Y and 1% Q-on-Q in constant currency terms.",
+              "title": "INFY Earnings-call transcript Jul 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "d72728d562503f29650e",
+              "page": 6,
+              "quote": "we are changing our revenue growth guidance to 1.5% to 3%",
+              "title": "INFY Earnings-call transcript Jul 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "our revenue growth guidance is 1% to 2% YoY.in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "Reported INR growth and constant-currency growth use different currency bases. Revenue growth is not a direct measure of volume growth."
+      ]
+    },
+    "balance": {
+      "summary": "The March 2026 annual balance sheet reports no outstanding borrowings, substantial liquidity and meaningful lease obligations; working-capital absorption deserves attention.",
+      "points": [
+        {
+          "text": "At 31 Mar 2026, the annual report states there were no outstanding borrowings and consolidated cash/investments of ₹ 43,075 crore. It says growth has been financed largely through cash generated from operations.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 81,
+              "quote": "We have no outstanding borrowings.",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 81,
+              "quote": "Consolidated cash and investments of ₹43,075 crore",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 81,
+              "quote": "Our growth has been financed largely through cash generated from operations.",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "No borrowings does not mean no obligations: non-current lease liabilities were₹ 6,016 crore and current lease liabilities₹ 3,160 crore, totaling₹ 9,176 crore by arithmetic. Total equity was ₹ 93,297 crore at 31 Mar 2026.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 287,
+              "quote": "Lease liabilities 2.21 6,016 5,772",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 287,
+              "quote": "Lease liabilities 2.21 3,160 2,455",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 287,
+              "quote": "Total equity 93,297 96,203",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Trade receivables rose to ₹ 35,234 crore from ₹ 31,158 crore, while trade payables rose to ₹ 4,744 crore from ₹ 4,164 crore. The annual cash-flow statement shows₹ 5,177 crore absorbed by receivables and unbilled revenue versus ₹ 1,769 crore a year earlier.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 286,
+              "quote": "Trade receivables 2.8 35,234 31,158",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 287,
+              "quote": "Trade payables 2.14 4,744 4,164",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "Trade receivables and unbilled revenue (5,177) (1,769)",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "These balance-sheet figures are dated 31Mar 2026, rather than presented as live balances.",
+        "A full working-capital-days calculation requires consistent receivables, unbilled revenue and denominator definitions."
+      ]
+    },
+    "cash": {
+      "summary": "Profits were backed by operating cash, but FY2026 cash conversion softened as cash taxes and working-capital outflows increased.",
+      "points": [
+        {
+          "text": "Ind-AS operating cash flow was ₹ 33,986 crore in FY2026, versus ₹ 35,694 crore in FY2025 and ₹ 25,210 crore in FY2024. FY2026 CFO covered total PAT of ₹ 29,474 crore by approximately 115.3%, calculated from these source values.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "Net cash generated by operating activities 33,986 35,694",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "1750bc6f7e6189911026",
+              "page": 284,
+              "quote": "Net cash generated by operating activities 35,694 25,210",
+              "title": "INFY Annual Report 2025",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 288,
+              "quote": "Profit for the year 29,474 26,750",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Despite higher annual profit, CFO declined 4.8% by arithmetic. Cash taxes paid increased from ₹ 5,602 crore to ₹ 8,648 crore, and receivables/unbilled revenue consumed₹ 5,177 crore versus ₹ 1,769 crore; management attributes the cash-flow decrease partly to tax-refund timing and working capital.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "Net cash generated by operating activities 33,986 35,694",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "Income taxes paid (8,648) (5,602)",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "Trade receivables and unbilled revenue (5,177) (1,769)",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 81,
+              "quote": "higher income tax refunds received during fiscal 2025, higher outflow on working capital",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Subtracting the Ind-AS net capital-spending line₹ 2,727 crore from CFO₹ 33,986 crore leaves₹ 31,259 crore of cash after net capex. This is an explicitly derived Ind-AS measure; the separately reported IFRS free-cash-flow figure uses its own disclosed basis.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "Net cash generated by operating activities 33,986 35,694",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "(Refer to note 2.2) (2,727) (2,237)",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 17,
+              "quote": "Free cash flow is defined as net cash provided by operating activities less capital expenditure",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "The Ind-AS cash-after-capex arithmetic is not substituted for the company’s reported IFRS FCF.",
+        "Quarterly and half-year cash flows are not mixed with these annual periods."
+      ]
+    },
+    "narrative": {
+      "summary": "AI and large deals are becoming material, but current group growth and repeated annual guidance cuts temper the optimistic story.",
+      "points": [
+        {
+          "text": "Management said AI revenue reached 10.5% of Q2 revenue, growing 29% sequentially, from 8.2% in Q1. Yet group CC growth was only 1.5%YoY in Q2 and FY2027 guidance was reduced to 1%–2%; AI momentum and overall growth therefore tell different parts of the story.",
+          "citations": [
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "AI revenue was a standout at 10.5% of our revenue, growing at 29% sequentially. And last quarter, it was at 8.2%.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "our revenue growth guidance is 1% to 2% YoY.in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The INR revenue increase of 10.7%YoY looks stronger than the 1.5% CC increase. Both are company disclosures; the comparison shows why currency-adjusted growth is necessary when assessing the strength of the underlying narrative.",
+          "citations": [
+            {
+              "documentId": "4d2e7774ca8a2887b366",
+              "page": 6,
+              "quote": "49,244 44,490 10.7% 48,211 2.1%",
+              "title": "INFY Outcome of Board Meeting 2026-10-23",
+              "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Management explicitly cited softer volumes, competitive pricing and greater productivity demands when explaining the October outlook reduction. These comments provide a concrete counterweight to the strong AI/deal narrative without attributing all weakness to AI.",
+          "citations": [
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 6,
+              "quote": "Our Q2 has been softer and our volume continues to remain softer.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 6,
+              "quote": "We have also seen pricing pressure on the back of competitive intensity and higher ask on productivity.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "The sources support the contrast; they do not quantify how much of the growth slowdown was caused by any single factor."
+      ]
+    },
+    "guidance": {
+      "summary": "Latest guidance is 1%–2% FY2027 CC revenue growth and 20%–22% operating margin; the year is incomplete, so delivery remains pending.",
+      "points": [
+        {
+          "text": "At the 23 Oct 2026 call, management guided FY2027 CC revenue growth of 1%–2% and operating margin of 20%–22%. These are annual expectations, not promises for the next individual quarter.",
+          "citations": [
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "our revenue growth guidance is 1% to 2% YoY.in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "Our operating margin guidance remains at 20% to 22% for the year.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The FY2027 revenue band was 1.5%–3.5% in April and 1.5%–3% in July before the October reduction. Track this change in expectations separately from the eventual full-year outcome.",
+          "citations": [
+            {
+              "documentId": "9245fc9faa070d829354",
+              "page": 31,
+              "quote": "We expect FY27 growth to be 1.5% to 3.5% in constant currency terms.",
+              "title": "INFY Earnings-call transcript Apr 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+            },
+            {
+              "documentId": "d72728d562503f29650e",
+              "page": 6,
+              "quote": "we are changing our revenue growth guidance to 1.5% to 3%",
+              "title": "INFY Earnings-call transcript Jul 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "our revenue growth guidance is 1% to 2% YoY.in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            }
+          ]
+        },
+        {
+          "text": "A completed, fair comparison is FY2026: the 14 Jan 2026 guidance was 3%–3.5% CC revenue growth, and the 23 Apr 2026 disclosure reported 3.1%, explicitly within that upgraded band.",
+          "citations": [
+            {
+              "documentId": "07929340a0affc4b83a5",
+              "page": 4,
+              "quote": "3% to 3.5% growth in constant currency.",
+              "title": "INFY Earnings-call transcript Jan 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=373b3501-e2a7-4ba4-bdd1-83f6bc21c25c.pdf"
+            },
+            {
+              "documentId": "9245fc9faa070d829354",
+              "page": 28,
+              "quote": "FY26 revenues crossed $20 bn and grew 3.1% in constant currency terms",
+              "title": "INFY Earnings-call transcript Apr 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "No completed FY2027 annual outcome exists as of 15Nov 2026.",
+        "No standalone numerical quarterly revenue guidance is inferred from annual ranges or analyst questions."
+      ]
+    },
+    "bullBear": {
+      "summary": "Bull case: monetising AI, large-deal wins and strong cash backing. Bear case: muted underlying growth, pricing pressure and repeated guidance reductions.",
+      "points": [
+        {
+          "text": "Bull case—an inference from disclosures: AI at 10.5% of revenue and Q2 large deals of$5.2 billion could support future revenue if they convert as expected; these signings are not current-period revenue.",
+          "citations": [
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "AI revenue was a standout at 10.5% of our revenue",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "Large deals were another standout at $5.2 bn for the quarter.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Bull case—cash resilience: the annual report discloses no outstanding borrowings, substantial cash/investments and FY2026 CFO above total PAT. This provides financial flexibility, while retaining the separate lease-liability caveat.",
+          "citations": [
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 81,
+              "quote": "We have no outstanding borrowings.",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 81,
+              "quote": "Consolidated cash and investments of ₹43,075 crore",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "Net cash generated by operating activities 33,986 35,694",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 288,
+              "quote": "Profit for the year 29,474 26,750",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Bear case—group CC growth of 1.5%YoY, pricing pressure and a cut in annual guidance to 1%–2% indicate that strong AI/deal activity has not yet translated into broad-based acceleration. FY2026 CFO also declined despite profit growth.",
+          "citations": [
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 6,
+              "quote": "We have also seen pricing pressure on the back of competitive intensity and higher ask on productivity.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "bd0edd6a98857447f92e",
+              "page": 4,
+              "quote": "our revenue growth guidance is 1% to 2% YoY.in constant currency terms.",
+              "title": "INFY Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 295,
+              "quote": "Net cash generated by operating activities 33,986 35,694",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            },
+            {
+              "documentId": "67fbd14d6305363adc6d",
+              "page": 288,
+              "quote": "Profit for the year 29,474 26,750",
+              "title": "INFY Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "These are conditional analytical cases, not price targets or a buy/sell recommendation."
+      ]
+    }
+  },
+  "facts": [
+    {
+      "metric": "Revenue",
+      "value": 153670,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "1750bc6f7e6189911026",
+        "page": 277,
+        "quote": "Revenue from operations 2.18 162,990 153,670",
+        "title": "INFY Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 26248,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated Ind-AS; total profit including non-controlling interests",
+      "source": {
+        "documentId": "1750bc6f7e6189911026",
+        "page": 277,
+        "quote": "Profit for the year 26,750 26,248",
+        "title": "INFY Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 35988,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "1750bc6f7e6189911026",
+        "page": 277,
+        "quote": "Profit before tax 37,608 35,988",
+        "title": "INFY Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": 25210,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "1750bc6f7e6189911026",
+        "page": 284,
+        "quote": "Net cash generated by operating activities 35,694 25,210",
+        "title": "INFY Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+      }
+    },
+    {
+      "metric": "Capex",
+      "value": 2201,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated Ind-AS; cash capex/net sale proceeds per annual cash-flow line",
+      "source": {
+        "documentId": "1750bc6f7e6189911026",
+        "page": 284,
+        "quote": "Expenditure on property, plant and equipment and intangibles (2,237) (2,201)",
+        "title": "INFY Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+      }
+    },
+    {
+      "metric": "Cash after net capex (derived)",
+      "value": 23009,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated Ind-AS; CFO minus cash capex; not company IFRS FCF",
+      "source": {
+        "documentId": "1750bc6f7e6189911026",
+        "page": 284,
+        "quote": "Net cash generated by operating activities 35,694 25,210",
+        "title": "INFY Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+      },
+      "calculation": "25210 - 2201",
+      "inputSources": [
+        {
+          "documentId": "1750bc6f7e6189911026",
+          "page": 284,
+          "quote": "Net cash generated by operating activities 35,694 25,210",
+          "title": "INFY Annual Report 2025",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+        },
+        {
+          "documentId": "1750bc6f7e6189911026",
+          "page": 284,
+          "quote": "Expenditure on property, plant and equipment and intangibles (2,237) (2,201)",
+          "title": "INFY Annual Report 2025",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+        }
+      ]
+    },
+    {
+      "metric": "Revenue",
+      "value": 162990,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 288,
+        "quote": "Revenue from operations 2.18 1,78,650 1,62,990",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 26750,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated Ind-AS; total profit including non-controlling interests",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 288,
+        "quote": "Profit for the year 29,474 26,750",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 37608,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 288,
+        "quote": "Profit before tax 39,995 37,608",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": 35694,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 295,
+        "quote": "Net cash generated by operating activities 33,986 35,694",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "Capex",
+      "value": 2237,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated Ind-AS; cash capex/net sale proceeds per annual cash-flow line",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 295,
+        "quote": "(Refer to note 2.2) (2,727) (2,237)",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "Cash after net capex (derived)",
+      "value": 33457,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated Ind-AS; CFO minus cash capex; not company IFRS FCF",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 295,
+        "quote": "Net cash generated by operating activities 33,986 35,694",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      },
+      "calculation": "35694 - 2237",
+      "inputSources": [
+        {
+          "documentId": "67fbd14d6305363adc6d",
+          "page": 295,
+          "quote": "Net cash generated by operating activities 33,986 35,694",
+          "title": "INFY Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+        },
+        {
+          "documentId": "67fbd14d6305363adc6d",
+          "page": 295,
+          "quote": "(Refer to note 2.2) (2,727) (2,237)",
+          "title": "INFY Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+        }
+      ]
+    },
+    {
+      "metric": "Revenue",
+      "value": 178650,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 288,
+        "quote": "Revenue from operations 2.18 1,78,650 1,62,990",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 29474,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated Ind-AS; total profit including non-controlling interests",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 288,
+        "quote": "Profit for the year 29,474 26,750",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 39995,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 288,
+        "quote": "Profit before tax 39,995 37,608",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": 33986,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated Ind-AS",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 295,
+        "quote": "Net cash generated by operating activities 33,986 35,694",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "Capex",
+      "value": 2727,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated Ind-AS; cash capex/net sale proceeds per annual cash-flow line",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 295,
+        "quote": "(Refer to note 2.2) (2,727) (2,237)",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "Cash after net capex (derived)",
+      "value": 31259,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated Ind-AS; CFO minus cash capex; not company IFRS FCF",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 295,
+        "quote": "Net cash generated by operating activities 33,986 35,694",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      },
+      "calculation": "33986 - 2727",
+      "inputSources": [
+        {
+          "documentId": "67fbd14d6305363adc6d",
+          "page": 295,
+          "quote": "Net cash generated by operating activities 33,986 35,694",
+          "title": "INFY Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+        },
+        {
+          "documentId": "67fbd14d6305363adc6d",
+          "page": 295,
+          "quote": "(Refer to note 2.2) (2,727) (2,237)",
+          "title": "INFY Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+        }
+      ]
+    },
+    {
+      "metric": "Revenue",
+      "value": 49244,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated IFRS INR fact sheet; reconciles to Ind-AS",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "49,244 44,490 10.7% 48,211 2.1%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 11063,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated IFRS INR fact sheet; reconciles to Ind-AS",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "11,063 10,229 8.2% 11,028 0.3%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 7838,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated Ind-AS; total profit including non-controlling interests",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 18,
+        "quote": "7,823 15 7,838",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PAT attributable to owners",
+      "value": 7823,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated; after non-controlling interests",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "7,823 7,364 6.2% 7,769 0.7%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 48211,
+      "unit": "INR crore",
+      "period": "Q1 FY2027",
+      "basis": "consolidated IFRS INR fact sheet; reconciles to Ind-AS",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "49,244 44,490 10.7% 48,211 2.1%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 11028,
+      "unit": "INR crore",
+      "period": "Q1 FY2027",
+      "basis": "consolidated IFRS INR fact sheet; reconciles to Ind-AS",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "11,063 10,229 8.2% 11,028 0.3%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 7775,
+      "unit": "INR crore",
+      "period": "Q1 FY2027",
+      "basis": "consolidated Ind-AS; total profit including non-controlling interests",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 18,
+        "quote": "7,769 6 7,775",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PAT attributable to owners",
+      "value": 7769,
+      "unit": "INR crore",
+      "period": "Q1 FY2027",
+      "basis": "consolidated; after non-controlling interests",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "7,823 7,364 6.2% 7,769 0.7%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 44490,
+      "unit": "INR crore",
+      "period": "Q2 FY2026",
+      "basis": "consolidated IFRS INR fact sheet; reconciles to Ind-AS",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "49,244 44,490 10.7% 48,211 2.1%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 10229,
+      "unit": "INR crore",
+      "period": "Q2 FY2026",
+      "basis": "consolidated IFRS INR fact sheet; reconciles to Ind-AS",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "11,063 10,229 8.2% 11,028 0.3%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 7375,
+      "unit": "INR crore",
+      "period": "Q2 FY2026",
+      "basis": "consolidated Ind-AS; total profit including non-controlling interests",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 18,
+        "quote": "7,364 11 7,375",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "PAT attributable to owners",
+      "value": 7364,
+      "unit": "INR crore",
+      "period": "Q2 FY2026",
+      "basis": "consolidated; after non-controlling interests",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "7,823 7,364 6.2% 7,769 0.7%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "Operating margin",
+      "value": 21,
+      "unit": "%",
+      "period": "Q2 FY2027",
+      "basis": "consolidated IFRS; not EBITDA margin",
+      "source": {
+        "documentId": "4d2e7774ca8a2887b366",
+        "page": 6,
+        "quote": "21.0 21.0 0.0% 21.1 -0.1%",
+        "title": "INFY Outcome of Board Meeting 2026-10-23",
+        "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+      }
+    },
+    {
+      "metric": "ROE",
+      "value": 31.6,
+      "unit": "%",
+      "period": "FY2026",
+      "basis": "consolidated; company-reported ratio",
+      "source": {
+        "documentId": "9245fc9faa070d829354",
+        "page": 29,
+        "quote": "ROE stood at 31.6%.",
+        "title": "INFY Earnings-call transcript Apr 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+      }
+    },
+    {
+      "metric": "Cash and investments",
+      "value": 43075,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated; as at31Mar2026; excludes specified equity/preference investments",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 81,
+        "quote": "Consolidated cash and investments of ₹43,075 crore",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      }
+    },
+    {
+      "metric": "Lease liabilities",
+      "value": 9176,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated; sum of current and non-current leases",
+      "source": {
+        "documentId": "67fbd14d6305363adc6d",
+        "page": 287,
+        "quote": "Lease liabilities 2.21 6,016 5,772",
+        "title": "INFY Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+      },
+      "calculation": "6016 + 3160",
+      "inputSources": [
+        {
+          "documentId": "67fbd14d6305363adc6d",
+          "page": 287,
+          "quote": "Lease liabilities 2.21 6,016 5,772",
+          "title": "INFY Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+        },
+        {
+          "documentId": "67fbd14d6305363adc6d",
+          "page": 287,
+          "quote": "Lease liabilities 2.21 3,160 2,455",
+          "title": "INFY Annual Report 2026",
+          "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+        }
+      ]
+    }
+  ],
+  "guidance": [
+    {
+      "statement": "FY2027 CC revenue growth guidance reduced to 1%–2%.",
+      "metric": "Revenue growth",
+      "target": "1%–2%",
+      "issued": "2026-10-23",
+      "period": "FY2027 ending2027-03-31",
+      "conditions": "Constant currency; annual consolidated outlook; macro and sector assumptions described by management.",
+      "source": {
+        "documentId": "bd0edd6a98857447f92e",
+        "page": 4,
+        "quote": "our revenue growth guidance is 1% to 2% YoY.in constant currency terms.",
+        "title": "INFY Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+      }
+    },
+    {
+      "statement": "FY2027 operating margin guidance remains 20%–22%.",
+      "metric": "Operating margin",
+      "target": "20%–22%",
+      "issued": "2026-10-23",
+      "period": "FY2027 ending2027-03-31",
+      "conditions": "Annual; not quarterly. H 2 faces compensation and pricing/productivity headwinds.",
+      "source": {
+        "documentId": "bd0edd6a98857447f92e",
+        "page": 4,
+        "quote": "Our operating margin guidance remains at 20% to 22% for the year.",
+        "title": "INFY Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+      }
+    },
+    {
+      "statement": "Prior FY2027 revenue outlook was 1.5%–3% before the October revision.",
+      "metric": "Revenue growth",
+      "target": "1.5%–3%",
+      "issued": "2026-07-23",
+      "period": "FY2027 ending2027-03-31",
+      "conditions": "Constant currency; superseded by 23Oct 2026 guidance.",
+      "source": {
+        "documentId": "d72728d562503f29650e",
+        "page": 6,
+        "quote": "we are changing our revenue growth guidance to 1.5% to 3%",
+        "title": "INFY Earnings-call transcript Jul 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+      }
+    },
+    {
+      "statement": "January FY2026 CC revenue guidance was 3%–3.5%; later full-year outcome was 3.1%.",
+      "metric": "Revenue growth",
+      "target": "3%–3.5%",
+      "issued": "2026-01-14",
+      "period": "FY2026 ending2026-03-31",
+      "conditions": "Annual constant-currency growth.",
+      "source": {
+        "documentId": "07929340a0affc4b83a5",
+        "page": 4,
+        "quote": "3% to 3.5% growth in constant currency.",
+        "title": "INFY Earnings-call transcript Jan 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=373b3501-e2a7-4ba4-bdd1-83f6bc21c25c.pdf"
+      }
+    }
+  ],
+  "scorecard": [
+    {
+      "quarter": "Q3 FY2026 (ended 2025-12-31)",
+      "promise": "Prior 16Oct 2025 guidance: FY2026 CC revenue growth 2%–3%; an annual horizon.",
+      "actual": "Q3 CC revenue grew 1.7%YoY and 0.6%QoQ. At the 14Jan 2026 release, full-year delivery was still pending and guidance was revised to 3%–3.5%.",
+      "status": "pending",
+      "rationale": "Historical assessment at the Q3 release: the earlier annual promise cannot be graded using one quarter. The completed FY2026 outcome is assessed in the Q4 row.",
+      "assessedAsOf": "2026-01-14",
+      "promiseSource": {
+        "documentId": "a2fbf79bb9d171cc14a8",
+        "page": 19,
+        "quote": "The new guidance is 2% to 3% growth in constant currency terms.",
+        "title": "INFY Earnings-call transcript Oct 2025",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf4a6179-8e43-4959-b055-91f1f7f4f076.pdf"
+      },
+      "actualSource": {
+        "documentId": "07929340a0affc4b83a5",
+        "page": 3,
+        "quote": "Our revenue grew 0.6% sequentially and 1.7% year-on",
+        "title": "INFY Earnings-call transcript Jan 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=373b3501-e2a7-4ba4-bdd1-83f6bc21c25c.pdf"
+      }
+    },
+    {
+      "quarter": "Q4 FY2026 (ended 2026-03-31)",
+      "promise": "Prior 14Jan 2026 guidance: FY2026 CC revenue growth 3%–3.5%.",
+      "actual": "Full-year FY2026 CC revenue growth was 3.1%; management explicitly said it was within the January upgraded band.",
+      "status": "met",
+      "rationale": "This is an annual assessment completed at the fiscal-year-end disclosure, not a claim that Q4 growth equals annual growth. Matching currency basis and horizon; earlier January promise precedes April outcome.",
+      "promiseSource": {
+        "documentId": "07929340a0affc4b83a5",
+        "page": 4,
+        "quote": "3% to 3.5% growth in constant currency.",
+        "title": "INFY Earnings-call transcript Jan 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=373b3501-e2a7-4ba4-bdd1-83f6bc21c25c.pdf"
+      },
+      "actualSource": {
+        "documentId": "9245fc9faa070d829354",
+        "page": 28,
+        "quote": "FY26 revenues crossed $20 bn and grew 3.1% in constant currency terms",
+        "title": "INFY Earnings-call transcript Apr 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+      }
+    },
+    {
+      "quarter": "Q1 FY2027 (ended 2026-06-30)",
+      "promise": "Prior 23Apr 2026 guidance: FY2027 CC revenue growth 1.5%–3.5%.",
+      "actual": "Q1 CC revenue grew 2.4%YoY and 1%QoQ. July annual guidance was revised to 1.5%–3%.",
+      "status": "pending",
+      "rationale": "FY2027 is incomplete. The Q1 growth rate and guidance revision are observations, not a completed full-year delivery verdict.",
+      "promiseSource": {
+        "documentId": "9245fc9faa070d829354",
+        "page": 31,
+        "quote": "We expect FY27 growth to be 1.5% to 3.5% in constant currency terms.",
+        "title": "INFY Earnings-call transcript Apr 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+      },
+      "actualSource": {
+        "documentId": "d72728d562503f29650e",
+        "page": 5,
+        "quote": "Our revenue growth for Q1 was at 2.4% Y-on-Y and 1% Q-on-Q in constant currency terms.",
+        "title": "INFY Earnings-call transcript Jul 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+      }
+    },
+    {
+      "quarter": "Q2 FY2027 (ended 2026-09-30)",
+      "promise": "Prior 23Jul 2026 guidance: FY2027 CC revenue growth 1.5%–3%.",
+      "actual": "Q2 CC revenue grew 1.5%YoY and 1.2%QoQ; October annual guidance was reduced to 1%–2%.",
+      "status": "pending",
+      "rationale": "FY2027 remains incomplete. Track the downward revision, while preserving the distinction between quarterly performance and annual guidance.",
+      "promiseSource": {
+        "documentId": "d72728d562503f29650e",
+        "page": 6,
+        "quote": "we are changing our revenue growth guidance to 1.5% to 3%",
+        "title": "INFY Earnings-call transcript Jul 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+      },
+      "actualSource": {
+        "documentId": "bd0edd6a98857447f92e",
+        "page": 4,
+        "quote": "Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially in constant currency terms.",
+        "title": "INFY Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+      }
+    }
+  ],
+  "generatedAt": "2026-11-15T13:32:20.215599+00:00",
+  "documentCount": 15,
+  "coverage": {
+    "annualReports": 3,
+    "transcripts": 7,
+    "results": 5,
+    "periods": [
+      "FY2025",
+      "FY2024",
+      "Oct 2026",
+      "FY2026",
+      "Jul 2026",
+      "Feb 2026",
+      "Jan 2026",
+      "Apr 2026",
+      "Oct 2025",
+      "Jul 2025",
+      "2026-10-23",
+      "2026-04-23",
+      "2026-07-23",
+      "2026-01-14",
+      "2025-10-16"
+    ],
+    "notes": [
+      "Prepared review covers primary annual reports, quarterly filings and raw company-call transcripts.",
+      "Every citation is checked against actual PDF page text. Core current-quarter tables were also visually reconciled.",
+      "Reported EBITDA is unavailable in Infosys latest results filing; operating profit is not relabelled."
+    ]
+  },
+  "cached": true,
+  "preparedBy": "AI-assisted primary-source review",
+  "analysisMode": "prepared"
+}

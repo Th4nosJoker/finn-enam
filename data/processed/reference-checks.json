@@ -1,0 +1,653 @@
+{
+  "version": 1,
+  "checkedAt": "2026-11-15T13:28:19.879884+00:00",
+  "financialChecks": [
+    {
+      "symbol": "POLYCAB",
+      "periods": [
+        "Q2 FY2027 (quarter ended 2026-09-30)",
+        "Q1 FY2027 (quarter ended 2026-06-30)",
+        "Q2 FY2026 (quarter ended 2025-09-30)"
+      ],
+      "unit": "INR million",
+      "basis": "consolidated Ind-AS; exact statement values",
+      "documentId": "ba0b8cd298e46095964f",
+      "page": 4,
+      "pageVisuallyVerified": true,
+      "rowLabels": {
+        "Revenue": "Revenue from operations",
+        "PBT": "Profit before tax(3+4)",
+        "PAT_total": "Profit for the period (5.6)",
+        "PAT_owners": "Equity shareholders of parent company"
+      },
+      "values": {
+        "Revenue": [
+          98989.01,
+          82097.32,
+          64772.11
+        ],
+        "PBT": [
+          13062.2,
+          10582.23,
+          9210.01
+        ],
+        "PAT_total": [
+          9899.97,
+          7966.54,
+          6929.59
+        ],
+        "PAT_owners": [
+          9773.74,
+          7843.37,
+          6854.56
+        ],
+        "finance_cost": [
+          936.04,
+          800.21,
+          484.05
+        ],
+        "depreciation_amortisation": [
+          1110.41,
+          1028.7,
+          967.76
+        ],
+        "other_income": [
+          883.67,
+          1049.15,
+          454.33
+        ]
+      },
+      "reportedEBITDA": {
+        "values": [
+          14225,
+          11362,
+          10207
+        ],
+        "unit": "INR million; reported rounded",
+        "source": {
+          "documentId": "17e3080f5a6db2349fc2",
+          "page": 15,
+          "quote": "EBITDA (A)-(B) 14,225 14.4% 11,362 13.8% 10,207",
+          "title": "POLYCAB Q2 FY2027 earnings presentation",
+          "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+        },
+        "definitionSource": {
+          "documentId": "17e3080f5a6db2349fc2",
+          "page": 19,
+          "quote": "EBITDA : Excludes other income",
+          "title": "POLYCAB Q2 FY2027 earnings presentation",
+          "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+        }
+      },
+      "derivedEBITDA": {
+        "values": [
+          14224.98,
+          11361.99,
+          10207.49
+        ],
+        "formula": "PBT + finance cost + depreciation and amortisation - other income",
+        "unit": "INR million",
+        "basis": "consolidated; operational EBITDA excluding other income; reconciles to company rounded presentation",
+        "inputSource": {
+          "documentId": "ba0b8cd298e46095964f",
+          "page": 4,
+          "quote": "(a) Revenue from operations 98,989.01 82,097.32 64,772.11",
+          "title": "POLYCAB Outcome of Board Meeting 2026-10-15",
+          "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026125737_OutcomeofBoardMeeting.pdf"
+        },
+        "inputPage": 4
+      },
+      "notes": [
+        "PAT total and PAT attributable to owners are different rows.",
+        "Do not compare the half-year columns to quarterly columns.",
+        "INR million divided by10 gives INR crore.",
+        "Reported rounded EBITDA and derived precise EBITDA must retain distinct reported/derived status."
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "periods": [
+        "Q2 FY2027 (quarter ended 2026-09-30)",
+        "Q1 FY2027 (quarter ended 2026-06-30)",
+        "Q2 FY2026 (quarter ended 2025-09-30)"
+      ],
+      "unit": "INR crore",
+      "basis": "consolidated; revenues/PBT reconcile across INR IFRS fact sheet and Ind-AS statements",
+      "documentId": "4d2e7774ca8a2887b366",
+      "pages": [
+        6,
+        18,
+        20
+      ],
+      "pagesVisuallyVerified": [
+        6,
+        18
+      ],
+      "values": {
+        "Revenue": [
+          49244,
+          48211,
+          44490
+        ],
+        "PBT": [
+          11063,
+          11028,
+          10229
+        ],
+        "PAT_total": [
+          7838,
+          7775,
+          7375
+        ],
+        "PAT_owners": [
+          7823,
+          7769,
+          7364
+        ],
+        "operating_profit_not_EBITDA": [
+          10330,
+          10163,
+          9353
+        ]
+      },
+      "sources": {
+        "Revenue": {
+          "documentId": "4d2e7774ca8a2887b366",
+          "page": 6,
+          "quote": "49,244 44,490 10.7% 48,211 2.1%",
+          "title": "INFY Outcome of Board Meeting 2026-10-23",
+          "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+        },
+        "PBT": {
+          "documentId": "4d2e7774ca8a2887b366",
+          "page": 6,
+          "quote": "11,063 10,229 8.2% 11,028 0.3%",
+          "title": "INFY Outcome of Board Meeting 2026-10-23",
+          "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+        },
+        "PAT_owners": {
+          "documentId": "4d2e7774ca8a2887b366",
+          "page": 6,
+          "quote": "7,823 7,364 6.2% 7,769 0.7%",
+          "title": "INFY Outcome of Board Meeting 2026-10-23",
+          "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+        },
+        "PAT_total": {
+          "documentId": "4d2e7774ca8a2887b366",
+          "page": 18,
+          "quote": "Profit for the period",
+          "title": "INFY Outcome of Board Meeting 2026-10-23",
+          "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+        },
+        "operating_profit": {
+          "documentId": "4d2e7774ca8a2887b366",
+          "page": 6,
+          "quote": "10,330 9,353 10.4% 10,163 1.6%",
+          "title": "INFY Outcome of Board Meeting 2026-10-23",
+          "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+        }
+      },
+      "reportedEBITDA": {
+        "status": "not_reported",
+        "scope": "No EBITDA label in the latest195-page results filing; do not relabel Operating profit as EBITDA."
+      },
+      "notes": [
+        "Fact-sheet column order is current, year-ago, growthYoY, previous-quarter, growthQoQ; reference arrays are current, previous, year-ago.",
+        "INR and USD tables coexist.",
+        "Total PAT includes NCI; the fact sheet explicitly reports net profit after NCI."
+      ]
+    }
+  ],
+  "readyResultsEnrichments": [
+    {
+      "announcementId": "106818441",
+      "symbol": "POLYCAB",
+      "relatedAnnouncementIds": [
+        "106818494",
+        "106818462"
+      ],
+      "enrichment": {
+        "summary": "Polycab reported Q2 FY2027 revenue of INR 98,989 million, EBITDA of INR 14,225 million, PBT of INR 13,062 million and total PAT of INR 9,900 million, on its consolidated presentation basis.",
+        "whyItMatters": "Revenue and earnings grew sequentially and year on year, but EBITDA margin was 14.4%, versus 13.8% in Q1 FY2027 and 15.8% a year earlier. Earnings growth and the direction of margins should be read together.",
+        "citations": [
+          {
+            "documentId": "17e3080f5a6db2349fc2",
+            "page": 15,
+            "quote": "Revenue from Operations 98,989 100.0% 82,097 100.0% 64,772",
+            "title": "POLYCAB Q2 FY2027 earnings presentation",
+            "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+          },
+          {
+            "documentId": "17e3080f5a6db2349fc2",
+            "page": 15,
+            "quote": "EBITDA (A)-(B) 14,225 14.4% 11,362 13.8% 10,207",
+            "title": "POLYCAB Q2 FY2027 earnings presentation",
+            "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+          },
+          {
+            "documentId": "17e3080f5a6db2349fc2",
+            "page": 19,
+            "quote": "EBITDA : Excludes other income",
+            "title": "POLYCAB Q2 FY2027 earnings presentation",
+            "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+          }
+        ],
+        "results": [
+          {
+            "metric": "Revenue",
+            "current": {
+              "value": 98989,
+              "period": "Q2 FY2027 (quarter ended 2026-09-30)",
+              "unit": "INR million",
+              "basis": "consolidated",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "Revenue from Operations 98,989 100.0% 82,097 100.0% 64,772",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "previous": {
+              "value": 82097,
+              "period": "Q1 FY2027 (quarter ended 2026-06-30)",
+              "unit": "INR million",
+              "basis": "consolidated",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "Revenue from Operations 98,989 100.0% 82,097 100.0% 64,772",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "yearAgo": {
+              "value": 64772,
+              "period": "Q2 FY2026 (quarter ended 2025-09-30)",
+              "unit": "INR million",
+              "basis": "consolidated",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "Revenue from Operations 98,989 100.0% 82,097 100.0% 64,772",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "qoqPct": 20.57566,
+            "yoyPct": 52.826839
+          },
+          {
+            "metric": "EBITDA",
+            "current": {
+              "value": 14225,
+              "period": "Q2 FY2027 (quarter ended 2026-09-30)",
+              "unit": "INR million",
+              "basis": "consolidated; company-reported EBITDA excludes other income",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "EBITDA (A)-(B) 14,225 14.4% 11,362 13.8% 10,207",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "previous": {
+              "value": 11362,
+              "period": "Q1 FY2027 (quarter ended 2026-06-30)",
+              "unit": "INR million",
+              "basis": "consolidated; company-reported EBITDA excludes other income",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "EBITDA (A)-(B) 14,225 14.4% 11,362 13.8% 10,207",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "yearAgo": {
+              "value": 10207,
+              "period": "Q2 FY2026 (quarter ended 2025-09-30)",
+              "unit": "INR million",
+              "basis": "consolidated; company-reported EBITDA excludes other income",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "EBITDA (A)-(B) 14,225 14.4% 11,362 13.8% 10,207",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "qoqPct": 25.198029,
+            "yoyPct": 39.365142
+          },
+          {
+            "metric": "PBT",
+            "current": {
+              "value": 13062,
+              "period": "Q2 FY2027 (quarter ended 2026-09-30)",
+              "unit": "INR million",
+              "basis": "consolidated",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "PBT 13,062 13.2% 10,582 12.9% 9,210",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "previous": {
+              "value": 10582,
+              "period": "Q1 FY2027 (quarter ended 2026-06-30)",
+              "unit": "INR million",
+              "basis": "consolidated",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "PBT 13,062 13.2% 10,582 12.9% 9,210",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "yearAgo": {
+              "value": 9210,
+              "period": "Q2 FY2026 (quarter ended 2025-09-30)",
+              "unit": "INR million",
+              "basis": "consolidated",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "PBT 13,062 13.2% 10,582 12.9% 9,210",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "qoqPct": 23.436023,
+            "yoyPct": 41.824104
+          },
+          {
+            "metric": "PAT",
+            "current": {
+              "value": 9900,
+              "period": "Q2 FY2027 (quarter ended 2026-09-30)",
+              "unit": "INR million",
+              "basis": "consolidated; total profit including non-controlling interests",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "PAT 9,900 10.0% 7,967 9.7% 6,930",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "previous": {
+              "value": 7967,
+              "period": "Q1 FY2027 (quarter ended 2026-06-30)",
+              "unit": "INR million",
+              "basis": "consolidated; total profit including non-controlling interests",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "PAT 9,900 10.0% 7,967 9.7% 6,930",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "yearAgo": {
+              "value": 6930,
+              "period": "Q2 FY2026 (quarter ended 2025-09-30)",
+              "unit": "INR million",
+              "basis": "consolidated; total profit including non-controlling interests",
+              "source": {
+                "documentId": "17e3080f5a6db2349fc2",
+                "page": 15,
+                "quote": "PAT 9,900 10.0% 7,967 9.7% 6,930",
+                "title": "POLYCAB Q2 FY2027 earnings presentation",
+                "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf"
+              }
+            },
+            "qoqPct": 24.262583,
+            "yoyPct": 42.857143
+          }
+        ],
+        "management": null,
+        "analysisMode": "prepared",
+        "preparedBy": "AI-assisted primary-source review",
+        "sourcePrecision": "Company-reported values rounded to nearest INR million; exact audited-statement values are separately preserved in financialChecks."
+      }
+    }
+  ],
+  "guidanceChecks": [
+    {
+      "id": "INFY-FY26-jan-revenue",
+      "symbol": "INFY",
+      "issued": "2026-01-14",
+      "horizon": "FY2026 ending2026-03-31",
+      "metric": "revenue growth",
+      "basis": "constant currency, consolidated",
+      "target": [
+        3,
+        3.5
+      ],
+      "unit": "%",
+      "promiseSource": {
+        "documentId": "07929340a0affc4b83a5",
+        "page": 4,
+        "quote": "3% to 3.5% growth in constant currency.",
+        "title": "INFY Earnings-call transcript Jan 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=373b3501-e2a7-4ba4-bdd1-83f6bc21c25c.pdf"
+      },
+      "actual": 3.1,
+      "actualPeriod": "FY2026",
+      "actualSource": {
+        "documentId": "9245fc9faa070d829354",
+        "page": 28,
+        "quote": "FY26 revenues crossed $20 bn and grew 3.1% in constant currency terms",
+        "title": "INFY Earnings-call transcript Apr 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+      },
+      "status": "met",
+      "rationale": "Full-year outcome compared with the latest prior full-year guidance, not Q4 growth. The April outcome source explicitly states it was within the January upgraded band."
+    },
+    {
+      "id": "INFY-FY27-apr-revenue",
+      "symbol": "INFY",
+      "issued": "2026-04-23",
+      "horizon": "FY2027 ending2027-03-31",
+      "metric": "revenue growth",
+      "basis": "constant currency, consolidated",
+      "target": [
+        1.5,
+        3.5
+      ],
+      "unit": "%",
+      "promiseSource": {
+        "documentId": "9245fc9faa070d829354",
+        "page": 31,
+        "quote": "We expect FY27 growth to be 1.5% to 3.5% in constant currency terms.",
+        "title": "INFY Earnings-call transcript Apr 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+      },
+      "laterUpdate": "Reduced to1.5%–3% at the July23 call, then1%–2% at the October23 call.",
+      "actualSource": {
+        "documentId": "d72728d562503f29650e",
+        "page": 6,
+        "quote": "we are changing our revenue growth guidance to 1.5% to 3%",
+        "title": "INFY Earnings-call transcript Jul 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+      },
+      "status": "pending",
+      "rationale": "FY2027 is incomplete as of15Nov2026. Revisions are an observable management-narrative development, not a completed-year miss."
+    },
+    {
+      "id": "INFY-FY27-jul-revenue",
+      "symbol": "INFY",
+      "issued": "2026-07-23",
+      "horizon": "FY2027 ending2027-03-31",
+      "metric": "revenue growth",
+      "basis": "constant currency, consolidated",
+      "target": [
+        1.5,
+        3
+      ],
+      "unit": "%",
+      "promiseSource": {
+        "documentId": "d72728d562503f29650e",
+        "page": 6,
+        "quote": "we are changing our revenue growth guidance to 1.5% to 3%",
+        "title": "INFY Earnings-call transcript Jul 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+      },
+      "laterUpdate": "Reduced to1%–2% at the October23 call.",
+      "actualSource": {
+        "documentId": "bd0edd6a98857447f92e",
+        "page": 4,
+        "quote": "our revenue growth guidance is 1% to 2% YoY.in constant currency terms.",
+        "title": "INFY Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+      },
+      "status": "pending",
+      "rationale": "The latest reported quarter has1.5%YoY CC growth, but that is not the full-year denominator and cannot decide whether annual guidance was met."
+    },
+    {
+      "id": "POLYCAB-FY30-FMEG",
+      "symbol": "POLYCAB",
+      "issued": "2026-10-15",
+      "horizon": "FY2030",
+      "metric": "FMEG EBITDA margin",
+      "target": [
+        8,
+        10
+      ],
+      "unit": "%",
+      "promiseSource": {
+        "documentId": "3c39debac5dedfdf9df0",
+        "page": 9,
+        "quote": "the guidance that we have provided is for FY30.",
+        "title": "POLYCAB Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf"
+      },
+      "status": "pending",
+      "rationale": "Project Spring is a long-term target. Subsequent quarterly FMEG EBIT margins cannot be used to declare an EBITDA FY2030 target met or missed.",
+      "targetSource": {
+        "documentId": "3c39debac5dedfdf9df0",
+        "page": 9,
+        "quote": "8% to 10% of the EBITDA margin.",
+        "title": "POLYCAB Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf"
+      }
+    }
+  ],
+  "supportingSources": [
+    {
+      "documentId": "17e3080f5a6db2349fc2",
+      "title": "POLYCAB Q2 FY2027 earnings presentation",
+      "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026135028_EarningsPresentation15102026.pdf",
+      "pages": [
+        {
+          "page": 15,
+          "text": "Polycab India Limited / Q2FY27 Earnings Presentation\r\nConsolidated Profit and Loss Statement\r\n14\r\nQ2FY27 % Q1FY27 % Q2FY26 %\r\nH1FY27 % H1FY26 %\r\nRevenue from Operations 98,989 100.0% 82,097 100.0% 64,772 100.0% 1,81,086 100.0% 1,23,832 100.0%\r\nCost of Goods sold 75,623 76.4% 62,520 76.2% 47,209 72.9% 1,38,144 76.3% 90,397 73.0%\r\nContribution (A) 23,366 23.6% 19,577 23.8% 17,563 27.1% 42,943 23.7% 33,435 27.0%\r\nEmployee Cost 2,657 2.7% 2,615 3.2% 2,305 3.6% 5,272 2.9% 4,494 3.6%\r\nOther Operating Expenses 6,484 6.5% 5,601 6.8% 5,051 7.8% 12,084 6.7% 10,158 8.2%\r\nTotal Operating Expenses (B) 9,141 9.2% 8,215 10.0% 7,356 11.4% 17,356 9.6% 14,652 11.8%\r\nEBITDA (A)-(B) 14,225 14.4% 11,362 13.8% 10,207 15.8% 25,587 14.1% 18,784 15.2%\r\nOther Income 884 0.9% 1,049 1.3% 454 0.7% 1,933 1.1% 1,254 1.0%\r\nDepreciation 1,110 1.1% 1,029 1.3% 968 1.5% 2,139 1.2% 1,825 1.5%\r\nFinance Cost 936 0.9% 800 1.0% 484 0.7% 1,736 1.0% 997 0.8%\r\nPBT 13,062 13.2% 10,582 12.9% 9,210 14.2% 23,644 13.1% 17,216 13.9%\r\nIncome Tax 3,162 3.2% 2,616 3.2% 2,280 3.5% 5,778 3.2% 4,289 3.5%\r\nPAT 9,900 10.0% 7,967 9.7% 6,930 10.7% 17,867 9.9% 12,927 10.4%\r\nParticulars ( ₹ Mn)\r\nQuarter Year To Date"
+        },
+        {
+          "page": 19,
+          "text": "Polycab India Limited / Q2FY27 Earnings Presentation\r\nSafe Harbour Notes and General Definitions\r\n18\r\nThis release/ communication, except for the historical information, may contain\r\nstatements, including the words or phrases such as ‘expects, anticipates, intends, will,\r\nwould, undertakes, aims, estimates, contemplates, seeks to, objective, goal, projects,\r\nshould’ and similar expressions or variations of these expressions or negatives of these\r\nterms indicating future performance or results, financial or otherwise, which are forward\r\nlooking statements . These forward looking statements are based on certain expectations,\r\nassumptions, anticipated developments and other factors which are not limited to, risk\r\nand uncertainties regarding fluctuations in earnings, market growth, intense competition\r\nand the pricing environment in the market, consumption level, ability to maintain and\r\nmanage key customer relationship and supply chain sources and those factors which may\r\naffect our ability to implement business strategies successfully, namely changes in\r\nregulatory environments, political instability, change in international copper, aluminum, oil\r\nprices and input costs and new or changed priorities of the trade . The Company,\r\ntherefore, cannot guarantee that the forward -looking statements made herein shall be\r\nrealized . The Company, based on changes as stated above, may alter, amend, modify or\r\nmake necessary corrective changes in any manner to any such forward looking statement\r\ncontained herein or make written or oral forward -looking statements as may be required\r\nfrom time to time based on subsequent developments and events . The Company does\r\nnot undertake any obligation to update forward looking statements that may be made\r\nfrom time to time by or on behalf of the Company to reflect the events or circumstances\r\nafter the date hereof .\r\n1. Numbers on consolidated basis in ₹ million\r\n2. Revenue : Revenue from operations\r\n3. Segment Revenue : Total income (external sales) excluding finance income\r\n4. EBITDA : Excludes other income\r\n5. EBITDA Margin : EBITDA/ Revenue\r\n6. Segment EBIT : Includes other income and excludes finance income\r\n7. Segment EBIT margin : Segment EBIT divided by Segment Revenue\r\n8. PAT : Profit After Tax on reported basis excluding exceptional items and discontinued\r\noperations\r\n9. PAT Margin : PAT for the period divided by Revenue\r\n10.Net Cash : Cash & equivalents + Investments + Non -current Deposits – Debt\r\n11.Working Capital : Working capital days on Average basis is calculated using average of\r\nbalance sheet number and sum of trailing 12 months P&L number . Closing basis uses\r\nperiod close balance sheet number and sum of trailing 12months P&L number"
+        }
+      ]
+    },
+    {
+      "documentId": "ba0b8cd298e46095964f",
+      "title": "POLYCAB Outcome of Board Meeting 2026-10-15",
+      "url": "https://nsearchives.nseindia.in/corporate/POLYCAB_15102026125737_OutcomeofBoardMeeting.pdf",
+      "pages": [
+        {
+          "page": 4,
+          "text": "PC.)LYCAB \r\nPolycab India Limited \r\nRegistered office: Unit 4, Plot Number 105, Halol Vadodara Road, Village Nurpura, Taluka Halol, Panchmahal, Gujarat 389350 \r\nCorporate Office: #29, The Ruby, 21s1Floor, Senapati Bapat Marg, Tulsi Pipe Road, Dadar (West), Mumbai -400028 \r\nPhone number: +91 22 67351400, CIN: L31300GJ1996PLC114183 \r\nWebsite: www.polycab.com, E-mail: shares@polycab.com \r\nCONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND SIX MONTHS ENDED 30 SEPTEMBER 2026 \r\n(₹ million) \r\nQuarter ended Six months ended Year ended \r\nSr. \r\nNo. Particulars 30 Sep 26 30 Jun 26 30 Sep 25 30 Sep 26 30 Sep 25 31 Mar 26 \r\nUnaudited Unaudited Unaudited Unaudited Unaudited Audited \r\n1) Income \r\n(a) Revenue from operations 98,989.01 82,097.32 64,772.11 1,81,086.33 1,23,831.87 2,88,837.92 \r\n(b) Other income 883.67 1,049.15 454.33 1,932.82 1,253.78 2,362.52 \r\nTotal income 99,872.68 83,146.47 65,226.44 1,83,019.15 1,25,085.65 2,91,200.44 \r\n2) Expenses \r\n(a) Cost of materials consumed 74,898.57 65,123.50 48,131.53 1,40,022.07 89,984.65 2,06,156.67 \r\n(b) Purchases of stock-in-trade 1,503.81 1,221.14 1,394.75 2,724.95 2,650.01 7,314.54 \r\n(c) Changes in inventories of finished goods, stock-in-trade and work-in￾progress \r\n(5,220.57) (5,626.53) (4,919.94) (10,847.10) (6,605.57) (7,601.62) \r\n(d) Project bought outs and subcontracting cost 4,441.66 1,801.97 2,602.44 6,243.63 4,367.50 9,946.38 \r\n(A) Total material cost (a to d) 75,623.47 62,520.08 47,208.78 1,38,143.55 90,396.59 2,15,815.97 \r\n(e) Employee benefits expense 2,656.88 2,614.75 2,304.59 5,271.63 4,493.58 8,794.24 \r\n(f) Finance costs 936.04 800.21 484.05 1,736.25 996.61 2,430.36 \r\n(g) Depreciation and amortisation expense 1,110.41 1,028.70 967.76 2,139.11 1,824.79 3,858.69 \r\n(h) Advertisement and sales promotion expense 404.98 328.24 322.10 733.22 472.27 1,902.26 \r\n(i) Freight and forwarding expense 1,318.10 1,033.97 1,066.68 2,352.07 2,047.22 4,639.98 \r\n(j) Other expenses 4,760.60 4,238.29 3,662.47 8,998.89 7,638.71 17,628.19 \r\n(B) Total expenses other than material cost (e to j) 11,187.01 10,044.16 8,807.65 21,231.17 17,473.18 39,253.72 \r\nTotal expenses (A+B) 86,810.48 72,564.24 56,016.43 1,59,374.72 1,07,869.77 2,55,069.69 \r\n3) Profit before share of profit! (loss) of joint venture (1-2) 13,062.20 10,582.23 9,210.01 23,644.43 17,215.88 36,130.75 \r\n4) Share of Profit/ (loss) of joint venture (net of tax) \r\n5) Profit before tax(3+4) 13,062.20 10,582.23 9,210.01 23,644.43 17,215.88 36,130.75 \r\n6) Tax expenses \r\n(a) Current tax 3,258.35 2,643.82 2,241.29 5,902.17 4,205.471 9,390.58 \r\n(b) Deferred tax (credit) / charge (96.12) (28.13) 39.13 (124.25) 83.86 (344.10) \r\nTotal tax expenses 3,162.23 2,615.69 2,280.42 5,777.92 4,289.33 9,046.48 \r\n7) Profit for the period (5.6) 9,899.97 7,966.54 6,929.59 17,866.51 12,926.55 27,084.27 \r\n8) Other comprehensive income \r\nItems that will not be reclassified to profit or loss 29.35 (110.80) 20.55 (81.45) (130.41) (30.12) \r\nIncome tax relating to items that will not be reclassified to profit or loss (7.36) 27.86 (5.21) 20.50 32.73 7.61 \r\nItems that will be reclassified to profit or loss 37.21 0.64 13.67 37.85 37.91 23.40 \r\nIncome tax relating to items that will be reclassified to profit or loss (9.34) (3.24) (9.34) (8.89) (5.42) \r\nOther comprehensive income / (losses) (net of tax) 49.86 (82.30) 25.77 (32.44) (68.66) (4.53) \r\n9) Total comprehensive income for the period (net of tax) (7+8) 9,949.83 7,884.24 6,955.36 17,834.07 12,857.89 27,079.74 \r\nProfit for the period attributable to: \r\nEquity shareholders of parent company 9,773.74 7,843.37 6,854.56 17,617.11 12,775.77 -I 26,720.33 \r\nNon controlling interests 126.23 123.17 75.03 249.40 150.78 I 363.94 \r\n9,899.97 7,966.54 6,929.59 17,866.51 12,926.55 27,084.27 \r\nOther comprehensive income (losses) for the period attributable to: \r\nEquity shareholders of parent company 49.60 (82.09) 25.65 (32.49) (68.63) (4.83) \r\nNon controlling interests 0.26 (0.21) 0.12 0.05 (0.03) 0.30 \r\n49.86 (82.30) 25.77 (32.44) (68.66) (4.53) \r\nTotal comprehensive income for the period attributable to: \r\nEquity shareholders of parent company 9,823.34 7,761.28 6,880.21 17,584.62 12,707.14 26,715.50 \r\nNon controlling interests 126.49 122.96 75.15 249.45 150.75 364.24 \r\n9,949.83 7,884.24 6,955.36 17,834.07 12,857.89 27,079.74 \r\n10) Paid up equity share capital (Face value of ₹ 10 Per Share) 1,506.92 1,506.35 1,505.30 1,506.92 1,505.30 1,505.51 \r\n11) Other equity 1,18,580.25 \r\n12) Earnings per share (not annualised for quarters ) \r\n(a) Basic (Face value ₹ 10 Per Share) (in ₹) 64.87 52.09 45.54 116.97 84.90 177.53 \r\n(b) Diluted (Face value ₹ 10 Per Share) (in ₹) 64.78 51.94 45.46 116.67 84.61 176.95 \r\nPage 1 of 5 \r\n814,1thoo \r\nCentral 8 Wing and \r\nNorth C Wing. \r\nNesco IT Park4, \r\nNesco Center. \r\nWestern ....,Express Highway, \r\nGoregaon (East). 0 \r\n.., \r\n_ Mumbai -400063 \r\nV,..., Ik.it ' fe,'eel \r\nAce"
+        }
+      ]
+    },
+    {
+      "documentId": "4d2e7774ca8a2887b366",
+      "title": "INFY Outcome of Board Meeting 2026-10-23",
+      "url": "https://nsearchives.nseindia.in/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf",
+      "pages": [
+        {
+          "page": 6,
+          "text": "Fact Sheet\r\nConsolidated Financial Data - Second Quarter, Fiscal 2023\r\nwww.infosys.com Page 4 of 4 \r\nFact Sheet\r\nConsolidated Financial Data - Second Quarter, Fiscal 2027\r\nConsolidated Statement of Comprehensive Income for three months ended,\r\n(Extracted from IFRS Financial Statement)\r\nIn ₹ crore, except per equity share data\r\nParticulars Sep 30, 2026 Sep 30, 2025\r\nGrowth %\r\nYoY\r\nJun 30, 2026\r\nGrowth %\r\nQoQ\r\n 49,244 44,490 10.7% 48,211 2.1%\r\n 33,943 30,800 10.2% 33,033 2.8%\r\n 15,301 13,690 11.8% 15,178 0.8%\r\n 2,489 2,224 11.9% 2,568 -3.1%\r\n 2,482 2,113 17.5% 2,447 1.4%\r\n 4,971 4,337 14.6% 5,015 -0.9%\r\n 10,330 9,353 10.4% 10,163 1.6%\r\n 21.0 21.0 0.0% 21.1 -0.1%\r\n 733 876 -16.3% 865 -15.3%\r\n 11,063 10,229 8.2% 11,028 0.3%\r\n 3,225 2,854 13.0% 3,253 -0.9%\r\n 7,823 7,364 6.2% 7,769 0.7%\r\n 19.32 17.76 8.7% 19.19 0.6%\r\n 19.30 17.74 8.8% 19.17 0.7%\r\n 26.00 23.00 13.0% - -\r\nProfit before income taxes\r\nIncome tax expense\r\nNet profit (after non-controlling interests)\r\nDividend per share (₹)\r\nAdministrative expenses\r\nTotal operating expenses\r\nOperating profit\r\nOperating margin %\r\nOther income, net of finance cost\r\nRevenues\r\nCost of sales\r\nGross profit\r\nOperating expenses:\r\nSelling and marketing expenses\r\nDiluted EPS (₹)\r\nBasic EPS (₹)\r\nConsolidated Statement of Comprehensive Income for six months ended,\r\n(Extracted from IFRS Financial Statement)\r\n In ₹ crore, except per equity share data\r\nParticulars Sep 30, 2026 Sep 30, 2025 Growth % \r\n 97,454 86,769 12.3%\r\n 66,975 60,025 11.6%\r\n 30,479 26,744 14.0%\r\n 5,057 4,431 14.1%\r\n 4,928 4,156 18.6%\r\n 9,985 8,587 16.3%\r\n 20,494 18,157 12.9%\r\n 21.0 20.9 0.1%\r\n 1,597 1,813 -11.9%\r\n 22,091 19,970 10.6%\r\n 6,478 5,670 14.3%\r\n 15,592 14,285 9.1%\r\n 38.51 34.47 11.7%\r\n 38.46 34.41 11.8%\r\n 26.00 23.00 13.0%\r\nOperating margin %\r\nCost of sales\r\nGross profit\r\nOperating expenses:\r\nSelling and marketing expenses\r\nAdministrative expenses\r\nTotal operating expenses\r\nOperating Profit\r\nRevenues\r\nDividend per share (₹)\r\nBasic EPS (₹)\r\nDiluted EPS (₹)\r\nOther income, net of finance cost\r\nProfit before income taxes\r\nIncome tax expense\r\nNet profit (after non-controlling interests)\r\nAs the quarter and six months ended figures are taken from the source and rounded to the nearest digits, the quarter figures in this statement added up to the figures \r\nreported for the previous quarter might not always add up to the six month ended figures reported in this statement."
+        },
+        {
+          "page": 18,
+          "text": "I tr'tC'\\ c '~• 02 FY 27 \r\nn 1v.:,y.:, Financial \r\nNavigate your next Results \r\nInfosys Limited \r\nCIN: L85110KA1981PLC013115 \r\nRegd. Office: Electronics City, Hosur Road, Bengaluru 560 100, India. \r\nWebsite: www.infos s.com· Email: investors infos s.com; Tele hone: 91 80 2852 0261 ; Fax: 91 80 2852 0362 \r\nStatement of Consolidated Audited Results of Infosys Limited and its subsidiaries for the quarter and half-year ended September 30, 2026 \r\nprepared in compliance with the Indian Accounting Standards (Ind-AS) \r\nParticulars \r\nRevenue from operations \r\nOther income, net \r\nTotal Income \r\nExpenses \r\nEmployee benefit expenses \r\nCost of technical sub-contractors \r\nTravel expenses \r\nCost of software packages and others \r\nCommunication expenses \r\nConsultancy and professional charges \r\nDepreciation and amortisation expenses \r\nFinance cost \r\nOther expenses \r\nTotal expenses \r\nProfit before exceptional item and tax \r\nExceptional item \r\nImpact of Labour Codes \r\nProfit before tax \r\nTax expense: \r\nCurrent tax \r\nDeferred tax \r\nProfit for the period \r\nOther comprehensive income \r\nItems that will not be reclassified subsequently to profit or loss \r\nRemeasurement of the net defined benefit liability/asset, net \r\nEquity instruments through other comprehensive income, net \r\nItems that will be reclassified subsequently to profit or loss \r\nFair value changes on derivatives designated as cash flow hedge, net \r\nExchange differences on translation of foreign operations \r\nFair value changes on investments, net \r\nTotal other comprehensive income/(loss), net of tax \r\nTotal comprehensive income for the period \r\nProfit attributable to: \r\nOwners of the company \r\nNon-controlling interests \r\nTotal comprehensive income attributable to: \r\nOwners of the company \r\nNon-controlling interests \r\nPaid up share capital (par value t5/- each, fully paid) \r\nOther equity •# \r\nEarnings per equity share (par value f5/- each)** \r\nQuarter \r\nended \r\nSeptember 30, \r\n2026 \r\nAud ited .. . . \r\n: 4 : \r\nI I' \r\n25,483 \r\n4,393 \r\n691 \r\n4,573 \r\n151 \r\n677 \r\n1,359 \r\n11 5 \r\n1,587 \r\n39,029 \r\n11 ,063 \r\n11,063 \r\n3,398 \r\n(1 73) \r\n7,838 \r\n(1 77) \r\n(9) \r\n(13) \r\n212 \r\n(97) \r\n(84) \r\n7,754 \r\n7,823 \r\n15 \r\n7,838 \r\n7,733 \r\n21 \r\n7,754 \r\n2,026 \r\n90,828 \r\nQuarter \r\nended \r\nJune 30, \r\n2026 \r\nAud ited \r\n. : \r\n. : . \r\n25,287 \r\n4,181 \r\n701 \r\n4,421 \r\n150 \r\n603 \r\n1,246 \r\n119 \r\n1,459 \r\n38,167 \r\n11,028 \r\n11,028 \r\n3,356 \r\n(103) \r\n7,775 \r\n296 \r\n60 \r\n49 \r\n(94) \r\n60 \r\n371 \r\n8,146 \r\n7,769 \r\n6 \r\n7,775 \r\n8,142 \r\n4 \r\n8,146 \r\n2,025 \r\n90,828 \r\nQuarter \r\nended \r\nSeptember 30, \r\n2025 \r\nAudited .• t \r\n. . . 45,472 \r\n23,438 \r\n3,879 \r\n539 \r\n4,025 \r\n160 \r\n480 \r\n1,182 \r\n106 \r\n1,434 \r\n35,243 \r\n10,229 \r\n10,229 \r\n3,1 78 \r\n(324) \r\n7,375 \r\n(38) \r\n(8) \r\n862 \r\n(34) \r\n782 \r\n8,1 57 \r\n7,364 \r\n11 \r\n7,375 \r\n8,1 40 \r\n17 \r\n8,157 \r\n2,074 \r\n93,745 \r\n. : : \r\nHalf-year \r\nended September 30, \r\n2026 \r\nAudited \r\n50,770 \r\n8,574 \r\n1,392 \r\n8,993 \r\n301 \r\n1,280 \r\n2,605 \r\n235 \r\n3,045 \r\n77,195 \r\n22,091 \r\n22,091 \r\n6,754 \r\n(276) \r\n15,613 \r\n119 \r\n51 \r\n36 \r\n118 \r\n(37) \r\n287 \r\n15,900 \r\n15,592 \r\n21 \r\n15,613 \r\n15,875 \r\n25 \r\n15,900 \r\n2,026 \r\n90,828 \r\n: . ,: ,. . : . -. Year ended \r\nMarch 31 , \r\n2025 2026 \r\nAudited Audited \r\n.. . . . . t \r\nt \r\n.. \r\n46,284 95,094 \r\n7,376 15,421 \r\n1,055 2,097 \r\n7,771 15,722 \r\n303 603 \r\n943 2,090 \r\n2,323 4,902 \r\n211 416 \r\n2, 557 5,343 \r\n68,823 141,688 \r\n19,970 41,284 \r\n1,289 \r\n19,970 39,995 \r\n6,232 11,767 \r\n(562) (1,246) \r\n14,300 29,474 \r\n(108) (288) \r\n27 397 \r\n6 (1) \r\n1,881 3,256 \r\n89 (27) \r\n1,895 3,337 \r\n16,195 32,81 1 \r\n14,285 29,440 \r\n15 34 \r\n14,300 29,474 \r\n16,165 32,750 \r\n30 61 \r\n16,195 32,811 \r\n2,074 2,024 \r\n93,745 90,828 \r\nBasic(intper share) 19.32 19.1 9 17.76 38.51 34.47 71.58 \r\nDiluted int er share 19.30 19.17 17.74 38.46 34.41 71.46 \r\n• Balances for the quarter and half year ended September 30, 2026 and quarter ended June 30, 2026 represent balances as per the audited Balance Sheet as at March 31, 2026 and balances for the \r\nquarter and half year ended September 30, 2025 represent balances as per the audited Balance Sheet as at March 31, 2025 as required by SEBI (Listing and Other Disclosure Requirements) \r\nRegulations, 2015 \r\n** EPS is not annualized for the quarter and half year ended September 30, 2026, quarter ended June 30, 2026 and quarter and half year ended September 30, 2025. \r\n# Excludes non-controlling interest \r\n1. Notes \r\na) The audited interim condensed consolidated financial statements for the quarter and half year ended September 30, 2026 have been taken on record by the Board of Directors at its meeting held on \r\nOctober 23, 2026. The statutory auditors, Deloitte Haskins & Sells LLP have expressed an unmodified audit opinion. The information presented above is extracted from the audited interim \r\ncondensed consolidated financial statements. Those interim condensed consolidated financial statements are prepared in accordance with the Indian Accounting Standards (Ind-AS) as prescribed under \r\nSection 133 of the Companies Act, 2013 read with Rule 3 of the Companies (Indian Accounting Standards) Rules, 2015 and relevant amendment rules thereafter. \r\nb) Update on employee stock grants \r\nThe Board, on October 23, 2026, based on the recommendations of the Nomination and Remuneration Committee approved the grant of 9,640 Restricted Stock Units (RSUs) under the 2015 Incentive \r\nCompensation Plan ('2015 Plan') to eligible employees. The grants made under the 2015 Plan would vest equally over a period of three years. The RSUs will be granted w.e.f November 1, 2026 and the \r\nexercise price will be equal to the par value of the share."
+        }
+      ]
+    },
+    {
+      "documentId": "07929340a0affc4b83a5",
+      "title": "INFY Earnings-call transcript Jan 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=373b3501-e2a7-4ba4-bdd1-83f6bc21c25c.pdf",
+      "pages": [
+        {
+          "page": 4,
+          "text": "External Document © 2026 Infosys Limited 3 \r\n- AI deployed in physical devices and \r\n- AI trust and risk services \r\nWe believe we are uniquely positioned to capture market share across these value pools and emerge \r\nas the leading AI value creator for global enterprises. We will share a comprehensive view of our \r\napproach at an investor day later this quarter. \r\nWith a strong performance in this quarter, we have revised our revenue growth guidance for the \r\nfinancial year. The new revenue growth guidance for this financial year is 3% to 3.5% growth in \r\nconstant currency. Our operating margin guidance for the financial year remains the same at 20% \r\nto 22%. \r\nWith that, let us open it up for questions. \r\nRishi Basu \r\nThank you, Salil. We will now open the floor for questions. Joining Salil is Mr. Jayesh Sanghrajka, \r\nChief Financial Officer, Infosys. The first question is from Ritu Singh from CNBC TV18. \r\nRitu Singh \r\nHi. Thank you. Rishi, sorry, this is our only chance to speak with the management every quarter. So \r\nwe will have to exceed that one question limit. With that, Salil and Jayesh, to begin with, I wanted to \r\nstart with your headcount number. We have seen an increase of 13,246 over the last two quarters. \r\nAnd this is interesting because it is coming at a time when your peer, TCS, is cutting 30,000 jobs. \r\nHow should we read into this? I mean, is this a real indicator of how you see the demand environment \r\nimproving? \r\nAnd with that, I wanted to get to your guidance figure being raised to 3% to 3.5%. How much of that \r\nupgrade is because of large deals like NHS being factored in? How much of the Versent acquisition, \r\nwhich is yet to be completed as we understand, is baked into that number? And, last quarter, you \r\nwere telling us, for instance, there are segments like Retail that remain the weakest link, so where \r\nare you seeing improvement that has led you to upgrade your guidance? That is one. \r\nAlso, sequentially, we have seen a bit of a marginal dip in your margins that is to 20.8%. This is at a \r\ntime when there are tailwinds emerging from the rupee depreciation. So if you could break down why \r\nthat has been the case? And while you continue to tell us about how you are uniquely placed to \r\nexploit that AI opportunity, and the likes of HCLTech and TCS have been giving us concrete \r\nnumbers. Why does Infosys refrain from doing so? Thank you."
+        }
+      ]
+    },
+    {
+      "documentId": "9245fc9faa070d829354",
+      "title": "INFY Earnings-call transcript Apr 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf",
+      "pages": [
+        {
+          "page": 28,
+          "text": "External Document © 2026 Infosys Limited 4\r\nprograms. We are seeing increasing momentum in AI-driven initiatives, particularly around \r\nproductivity, automation and platform-led modernization initiatives. \r\nLet me start with the key highlights for the year and the quarter. \r\n1. FY26 revenues crossed $20 bn and grew 3.1% in constant currency terms, within the \r\nupgraded guidance band given in January. This was after lower third-party costs which was \r\ndown by 1% as percentage of revenue and 0.7% reduction in onsite mix. Acquisitions \r\ncontributed about 70 bps on full year growth. \r\n2. For FY26, Communications, Manufacturing vertical and Europe geography grew more than \r\ndouble the company average, led by ramp-up of the large deal wins. Additionally, FS and \r\nEURS grew above the company average in constant currency terms. \r\n3. Volumes for the year were flattish, growth was led by increase in realization thanks to Project \r\nMaximus. \r\n4. Adjusted operating margin was stable at 21%. Gains from currency and Maximus were \r\nreinvested in talent, AI and sales and marketing. \r\n5. Q4 revenues grew by 4.1% year-on-year. Sequentially, revenues declined 1.3% in constant \r\ncurrency due to seasonality and slower decision making in the month of March. \r\n6. Growth in Q4 was broad-based across major geographies. Communications, EURS and LS \r\nvertical grew well above the company average on a year-on-year basis in constant currency \r\nterms. \r\n7. Q4 operating margins stood at 20.9%, down 0.3% sequentially, adjusted for the Labor Code \r\nimpact in Q3. \r\n8. Onsite mix further reduced to 22.8% from 23.1% in Q3. \r\n9. Utilization, excluding trainees, was 83% in Q4 and 84.4% in FY26. Utilization, including \r\ntrainees, was at 81.1% for FY26 reflecting the investment made towards creating future \r\ncapacity. \r\n10. Strong focus on collections aided by technology interventions helped us reduce DSO,\r\nincluding unbilled net of unearned to 78, which is the lowest in seven years. \r\n11. Reported EPS in INR terms grew 23.8% Y-o-Y in Q4 and 11% in FY26. EPS adjusted for \r\nincome tax orders and the Labor Code grew double digit for the year at 13.9% in Q4 and \r\n12.1% for the full year in INR terms. \r\n12. Free cash flow adjusted for the Labor Code and income tax refunds stood at $3.5 bn for FY \r\nand $882 mn for Q4. Adjusted free cash as a percentage of net profit continue to be well \r\nabove 100% at 106% for FY26 and 111% for Q4."
+        },
+        {
+          "page": 31,
+          "text": "External Document © 2026 Infosys Limited 7\r\nincreasingly AI-led. There is a shift from Generative to Agentic AI with clients consolidating IT and \r\nBPM to cut costs. We see a strong uptick in AI deals in areas like IT operations, software replacement \r\nand mainframe migration. \r\nAs we enter FY27, we continue to see a measured and selective approach to enterprise budgets,\r\namid macro and geopolitical uncertainties, higher interest rates, rapid technology shifts and high \r\ncompetitive intensity.\r\nWe expect FY27 growth to be 1.5% to 3.5% in constant currency terms. The FY27 guidance includes \r\n- Contribution from Stratus which we closed earlier this week, but excludes Versent JV and \r\nOptimum Healthcare acquisitions that are yet to be closed.\r\n- Reduction of 0.75% to 1% due to lower revenue from one of our large European \r\nmanufacturing client. This was due to reduced client spend on account of challenging macro \r\nenvironment, along with our conscious decision to not pursue certain deals that were not \r\naligned to our return expectations.\r\n- Further reduction in onsite mix by 0.75% to 1%, we expect third-party cost for FY27 to remain \r\nat similar levels as FY26. \r\nOur operating margins guidance for the year is 20% to 22%. This assumes headwinds from wage \r\nhikes, productivity pass-throughs and AI investment offset by initiatives under project Maximus. \r\nThe impact of Optimum Healthcare, Stratus and Versent on operating margin will be approximately \r\n0.7% on a full year annualized basis post closure.\r\nWith that we can open up for the questions.\r\nModerator\r\nThank you very much. We will now begin with the question and answer session. \r\nFirst question is from the line of Yogesh Aggarwal from HSBC Securities. Please go ahead.\r\nYogesh Aggarwal\r\nYeah hi, just couple of questions. Firstly, Salil, can you talk about the push-pulls for the guidance like \r\nat the lower end and at the upper end what are you assuming? And secondly, you guys had a very \r\nsuccessful Project Maximus, the quality of business, the revenues has also improved, but the entire \r\nINR depreciation which is very significant has not impacted the margin outlook. So, I was just curious \r\nwhich are the areas where all the INR depreciation has been invested and if you can talk a little bit \r\nabout that? Thank you."
+        }
+      ]
+    },
+    {
+      "documentId": "d72728d562503f29650e",
+      "title": "INFY Earnings-call transcript Jul 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+      "pages": [
+        {
+          "page": 6,
+          "text": "External Document © 2025 Infosys Limited 5\r\nOverall, we continue to see the macro environment remaining uncertain. With our Q1 results and a \r\nview for the rest of the financial year, we are changing our revenue growth guidance to 1.5% to 3% \r\nY-on-Y growth in constant currency terms. Our operating margin guidance remains the same at 20% \r\nto 22% operating margin.\r\nThank you. And with that, let's open it up for questions.\r\nRishi Basu\r\nThank you, Salil. We will now open the floor for questions. The first question is from Ritu Singh from \r\nCNBC TV18.\r\nRitu Singh\r\nThank you very much. I know you have asked for one question. But if I may, Salil, you have given \r\nus a big news in this quarter. To begin with, since you speak about how you brought in and Mr. \r\nNilekani spoke about how you brought in calmness at a time when the company was going through \r\nquite a bit.\r\nEven now you are speaking of this global uncertainty because of which you have had to, again, pull \r\ndown your guidance as well. Why decide to leave at a time like now, instead of perhaps looking at \r\nan extension? I wanted to understand. And with the new CEO coming in, any mandate for the new \r\nCEO that you could highlight for us more clearly? And perhaps that is something the investors would \r\nalso want to know?\r\nAnd then on the earnings, of course, the reason for this revision downwards, if you could give us a \r\nlittle more colour on what you are seeing in the environment, where is the weakness? Where is \r\nmomentum picking up?\r\nSome of your competitors like Tech M have been talking about irrational competitive pricing. Wipro \r\nhas also spoken about that a bit. So what are you seeing in the environment? And with a 1% kind of \r\ngrowth in the first quarter, do we assume the second half will be meaningfully better if you were to \r\nreach that upper end of the 3% guidance you are speaking about?\r\nAnd just on AI, if you could update us how the revenue is moving? Is it proceeding as per what your \r\nexpectations were? Any updates you could share on that front as well, as far as revenue contribution \r\nfrom AI is concerned?\r\nSalil Parekh\r\nSo let me start with the first one."
+        }
+      ]
+    },
+    {
+      "documentId": "bd0edd6a98857447f92e",
+      "title": "INFY Earnings-call transcript Oct 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf",
+      "pages": [
+        {
+          "page": 4,
+          "text": "External Document © 2025 Infosys Limited 3 \r\nRishi Basu\r\nA very good evening, everyone, and thank you for joining Infosys' Second Quarter Financial Results. \r\nMy name is Rishi, and I would like to welcome all of you. One question. Okay. \r\nWith that, I am going to hand it over to Salil for his opening remarks. Over to you, Salil. \r\nSalil Parekh\r\nThanks, Rishi. It is good to see that everyone listens to you so well. So good evening, and welcome, \r\neveryone. Thank you for joining us. Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially \r\nin constant currency terms. AI revenue was a standout at 10.5% of our revenue, growing at 29% \r\nsequentially. And last quarter, it was at 8.2%. \r\nLarge deals were another standout at $5.2 bn for the quarter. This includes two mega deals. One of \r\nthese mega deals was for over $2 bn with a large international company for a period of seven years, \r\nand this is net new. This deal is expected to contribute over 1% revenue growth in the coming \r\nfinancial year. \r\nThe second mega deal was for $1 bn for a renewal. Our large deal pipeline is healthy and includes \r\nsome other mega deals in this pipeline. Operating margin was stable at 21%. Free cash flow was \r\nstrong at $928 mn (Editor’s comment) for the quarter. \r\nAs enterprises adopt AI at scale, another quarter of strong growth in AI revenues is a recognition of \r\nour differentiated market positioning and client confidence. As an ecosystem integrator, we continue \r\nto work closely with the frontier model companies, both open-weight and closed models. Our deep \r\ninvestments in Topaz Fabric help our clients seamlessly navigate between models to ensure token \r\noptimization and value realization. \r\nInfosys continues to gain market share, especially where economics of the program is aligned to the \r\nstakeholder interest. We remain the preferred AI strategy and deployment partner for our top clients. \r\nAs AI remains central to enterprise transformation in the years ahead, Infosys is well positioned to \r\nhelp navigate this shift. \r\nBased on our Q2 performance and revised outlook for rest of the year, our revenue growth guidance \r\nis 1% to 2% YoY.in constant currency terms. Our operating margin guidance remains at 20% to 22% \r\nfor the year. \r\nThank you. And with that, we can open it up for questions. \r\nRishi Basu"
+        },
+        {
+          "page": 6,
+          "text": "External Document © 2025 Infosys Limited 5 \r\nSo if you look at our guidance, our our last guidance was 1.5% to 3%. We had clearly called out at \r\n1.5%, we expect even more uncertainty. Our Q2 has been softer and our volume continues to remain \r\nsofter. We have also seen pricing pressure on the back of competitive intensity and higher ask on \r\nproductivity. So all that is baked in, in our revised guidance as we look forward. \r\nOn top of that, as Salil said, some of the sectors, we see softness, Retail, Hi-Tech, where the \r\ndiscretionary is lower than what we are expecting. So all of that is reflected in our guidance on the \r\nrevenue and which is where it is 1% to 2% now. \r\nOur margin continues to remain at 21%. I think it is a strong performance on the back of all the efforts \r\nthat we have put in Project Maximus. If you look at last many years, we have been able to maintain \r\nmargins despite investment in business, whether it is sales and marketing, whether it is AI-led \r\ninvestment, talent investments and all of that. \r\nIf you look at put-and-takes of this quarter, the margins have remained flat. We had 70 bps of impact \r\non post-sale customer support, which is a delta between two quarters. Last quarter, we had a \r\nreversal. This quarter, it is an impact, so it is a difference in that. We had 20 bps coming from our \r\nacquisition, it is a one-month additional impact last quarter to only two months of impact, so one \r\nmonth additional on account of amortization, etc. \r\nThat was offset by tailwinds of currency, 40 bps coming from the currency, 20 bps coming from a \r\nhigher calendar and working days and 20 bps from the Project Maximus. So that kind of sums up \r\nthe margin walk. \r\nAs you look forward, the next half, which is H2, we will have impact coming from compensation, as \r\nyou rightly said, so that will have a headwind. We will see continued intensity on pricing. So we will \r\nsee that as a headwind. And we will continue working on Project Maximus to offset as much as \r\npossible from there. \r\nRishi Basu\r\nThank you. The next question is from Mansee Dave from ET Now. \r\nMansee Dave\r\nHi, good afternoon. So, starting with the guidance which is revised downward from 1.5% to 3% to \r\n1% to 2% on a constant currency growth basis, how much is the weak demand and market pressure \r\naffecting? And what has changed in the demand environment plans ahead, if I may ask? \r\nAI monetization. Well, the AI as a percentage of revenue for Infosys this time is quite strong and \r\ngreetings to you all for that. AI is helping clients improve productivity, but it can also reduce traditional"
+        }
+      ]
+    },
+    {
+      "documentId": "3c39debac5dedfdf9df0",
+      "title": "POLYCAB Earnings-call transcript Oct 2026",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
+      "pages": [
+        {
+          "page": 9,
+          "text": "Polycab India Limited\r\nOctober 15, 2026\r\nPage 8 of 19\r\nToday, the strategy has moved for regional specific and given the kind of P&L strategy that we \r\nhave for each. That is driving a lot of profitability. The availability of the products in the market \r\nhas improved due tovarious strategic initiatives that we have implemented.\r\nOur Polyratna plans that we have put together in the market is also complementing towards this. \r\nSo I think all of this synthesized is getting us the results for FMEG. To answer your second \r\nquestion on the growth, I think when we started the Project Spring and we laid out our margin \r\nprofile, I think it's for FY30.\r\nSo over the longer term, I believe we would end up in that kind of a range of 8% to 10% of the \r\nEBITDA margin. Today, we are already at an EBIT margin of 10.1%, which is very high. I \r\nwould believe you would appreciate the kind of efforts that we have put together to get this \r\nsegment turnaround in the way we have been seeing the results in this quarter.\r\nKevin Shah: Understood. And just a follow-up on the margins. For the Wires and Cables margins also, there \r\nhas been a significant increase there. So can we say that this is mainly led by the channel mix \r\nimprovement? And what are the other drivers? And how much of it do you see it as sustainable \r\ngiven the potential increase in the competition in the distribution channel?\r\nAditya Nathany: So Kevin, I think when you look at the margins overall, I think it's a confluence of four or five \r\nthings that we have already highlighted in the previous calls. One definitely operating leverage \r\nhas a play into it.\r\nIf you see our margins, overall margins have expanded around 90 basis points sequentially. So \r\nthere is the operating leverage that is playing in this segment. Definitely, the business mix is \r\nplaying an important part as well, wires have grown far more better than the cables, so that's a \r\nhigh accretive margin business for us.\r\nDefinitely channel has also been better than institutional. So these are four or five things that are \r\nvery important, and if you see the kind of exports growth that we are also having, that is also \r\nsort of supporting to a certain extent.\r\nSo I think we are very much happy the way we have delivered, the kind of initiatives that we \r\nhave put together, and it is visible in the results at the moment. And 14.4% overall margins, we \r\nhave Wires and Cable at 14.2%, it is such a remarkable story, Kevin.\r\nKevin Shah: Understood. And secondly, in terms of the new suppliers that are coming into the market. So do \r\nyou what is the downside risk that you see to your Project Spring targets in terms of the growth \r\nas well as margins?\r\nAditya Nathany: So Kevin, you need to understand that the guidance that we have provided is for FY30. So it's a \r\nCAGR approach that we have taken in terms of formulating these growth rates. So then you may \r\nsee in some years you will find the margins have actually gone in the high single digits. Some \r\nyears you may find it at a very high margins, in the double digits. I think we would like to be in \r\nthat guidance range, I think, till FY30, and that's how we continue to maintain our stance of our \r\nguidance."
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "This is a small independent reference set, not validation of every extracted metric.",
+    "A quote-presence check alone does not prove financial row/column alignment; indicated source tables were visually checked.",
+    "Quarterly analyst questions and retrospective descriptions are not management promises.",
+    "Latest-quarter source dates and fiscal periods are preserved; no annual guidance is silently scored as quarterly."
+  ]
+}

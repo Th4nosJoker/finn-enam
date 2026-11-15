@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "companies": 18,
+  "priceObservations": 2286,
+  "filings": 271,
+  "documents": 60,
+  "nseUniverse": 2635,
+  "sourceTextPages": 6994,
+  "firstMarketDate": "2026-05-13",
+  "lastMarketDate": "2026-11-13",
+  "scope": "Ingestion integrity and research corpus coverage; downstream extracted financial facts require separate reconciliation."
+}

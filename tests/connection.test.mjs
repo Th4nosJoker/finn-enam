@@ -1,0 +1,7 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
+import {saveProviderConnection,withProviderConnection,validProviderKey} from '../worker/connection.js';
+import {get} from '../worker/store.js';
+test('provider connections are authenticated, encrypted and never returned as plaintext records',async()=>{const key='test-provider-key-not-a-real-credential-12345',fingerprint=createHash('sha256').update(key).digest('hex'),env={GEMINI_KEY_FINGERPRINT:fingerprint};await assert.rejects(()=>saveProviderConnection(env,{key:'incorrect-test-provider-key-12345'}),/does not match/);const result=await saveProviderConnection(env,{key});assert.deepEqual(result,{connected:true,provider:'gemini'});const record=await get(env,'provider-connection');assert.equal(JSON.stringify(record).includes(key),false);const runtime=await withProviderConnection(env);assert.equal(runtime.GEMINI_API_KEY,key);assert.equal(runtime.AI_PROVIDER,'gemini');assert.equal(env.GEMINI_API_KEY,undefined);});
+test('opaque provider credentials support newer lengths and punctuation without allowing whitespace',async()=>{const key='test-only-opaque.'+'x'.repeat(300)+'/+=',env={GEMINI_KEY_FINGERPRINT:createHash('sha256').update(key).digest('hex')};assert.equal(validProviderKey(key),true);assert.equal(validProviderKey('short'),false);assert.equal(validProviderKey(key+'\n'),false);assert.equal(validProviderKey('x'.repeat(4097)),false);await saveProviderConnection(env,{key});assert.equal((await withProviderConnection(env)).GEMINI_API_KEY,key);});

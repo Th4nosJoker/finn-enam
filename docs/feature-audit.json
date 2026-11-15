@@ -1,0 +1,79 @@
+{
+  "at": "2026-11-15T15:54:08.136Z",
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Built service and persistent database",
+      "status": "passed",
+      "documents": 66
+    },
+    {
+      "name": "Portfolio, EOD history and classification",
+      "status": "passed",
+      "companies": 18,
+      "categories": 17
+    },
+    {
+      "name": "Prioritised digest retains routine and grouped original filings",
+      "status": "passed",
+      "filings": 271,
+      "groups": 271
+    },
+    {
+      "name": "Directory search and invalid-symbol rejection",
+      "status": "passed"
+    },
+    {
+      "name": "INFY eight-view research, scorecard and source viewer",
+      "status": "passed",
+      "documents": 15,
+      "facts": 34
+    },
+    {
+      "name": "TCS eight-view research, scorecard and source viewer",
+      "status": "passed",
+      "documents": 15,
+      "facts": 21
+    },
+    {
+      "name": "TITAN eight-view research, scorecard and source viewer",
+      "status": "passed",
+      "documents": 15,
+      "facts": 13
+    },
+    {
+      "name": "POLYCAB eight-view research, scorecard and source viewer",
+      "status": "passed",
+      "documents": 17,
+      "facts": 18
+    },
+    {
+      "name": "Actual results filing: four metrics with comparable QoQ and YoY",
+      "status": "passed"
+    },
+    {
+      "name": "Management filing with sourced professional background",
+      "status": "passed"
+    },
+    {
+      "name": "Portfolio additions, removal and database readback",
+      "status": "passed"
+    },
+    {
+      "name": "Configurable alerts, deduplication, read state and invalid-rule rejection",
+      "status": "passed",
+      "alerts": 292
+    },
+    {
+      "name": "Cross-origin write and invalid date-window rejection",
+      "status": "passed"
+    },
+    {
+      "name": "Disconnected model has an explicit recoverable error",
+      "status": "passed"
+    }
+  ],
+  "citationsVerified": 371,
+  "liveModelTested": false,
+  "scope": "Offline integrated workflows and source integrity. Does not establish live model quality or live exchange availability."
+}

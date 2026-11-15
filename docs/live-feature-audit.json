@@ -1,0 +1,66 @@
+{
+  "at": "2026-11-15T15:44:52.406Z",
+  "status": "passed",
+  "provider": "gemini",
+  "model": "gemini-3.6-flash",
+  "liveCases": [
+    {
+      "symbol": "INFY",
+      "file": "question-INFY.json"
+    },
+    {
+      "symbol": "INFY",
+      "file": "hosted-question-INFY.json"
+    },
+    {
+      "symbol": "POLYCAB",
+      "file": "results-POLYCAB.json"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "file": "management-HDFCBANK.json"
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "file": "hosted-research-ASIANPAINT.json"
+    }
+  ],
+  "citationsVerified": 82,
+  "sourcePagesRead": 26,
+  "unseenCompany": {
+    "symbol": "ASIANPAINT",
+    "views": 8,
+    "points": 26,
+    "quarters": 4,
+    "validatedFinancialFacts": 5,
+    "scorecardStatuses": [
+      "not_assessable",
+      "not_assessable",
+      "not_assessable",
+      "not_assessable"
+    ],
+    "usage": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash",
+      "inputTokens": 49160,
+      "outputTokens": 8486,
+      "cachedTokens": 0,
+      "latencyMs": 65692,
+      "at": "2026-11-15T15:39:30.633Z",
+      "outputStatus": "completed",
+      "outputCharacters": 25514
+    },
+    "extractionUsage": {
+      "provider": "gemini",
+      "model": "gemini-3.6-flash",
+      "inputTokens": 59863,
+      "outputTokens": 4729,
+      "cachedTokens": 0,
+      "latencyMs": 16378,
+      "at": "2026-11-15T15:38:20.724Z",
+      "outputStatus": "completed",
+      "outputCharacters": 11854
+    }
+  },
+  "scope": "Actual generated output checked against pages returned by the deployed source viewer. Quote matching is not a guarantee of every interpretation; unsupported guidance outcomes remain unassessed."
+}

@@ -57,4 +57,4 @@ Meaningful checks cover financial comparison bases, volume lookbacks, alert boun
 
 See `docs/acceptance.md` for the current feature checklist and verification status. No feature is complete merely because it has a UI tab. The prototype is intended to show research judgment and source transparency; it does not place trades.
 
-Submission source: https://github.com/Th4nosJoker/finn-enam. The native hosting source repository is separate. Actual build-conversation exports are packaged separately; they are excluded from the public source. The current demo is owner-private, so evaluator access must be arranged before submission. No submission email has been sent.
+Submission source: https://github.com/Th4nosJoker/finn-enam. The native hosting source repository is separate. Actual build-conversation exports are packaged separately; they are excluded from the public source. The mock-data demo is published for evaluator access. Public visitors share the connected Gemini Free-tier quota; prepared dossiers and filing examples remain available if live quota is exhausted. No submission email has been sent.

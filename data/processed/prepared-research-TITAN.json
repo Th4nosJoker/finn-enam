@@ -1,0 +1,805 @@
+{
+  "headline": "Titan’s growth is strong; normalize the latest profit and watch the funding tied up in inventory.",
+  "views": {
+    "business": {
+      "summary": "Jewellery is Titan’s growth engine, with watches, eyewear and emerging businesses broadening the portfolio.",
+      "points": [
+        {
+          "text": "The group reports Watches, Jewellery, Eyecare and Others; the last category includes aerospace/defence, automation, accessories, fragrances and Indian dress wear.",
+          "citations": [
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 17,
+              "quote": "The Group is structured into four verticals namely Watches, Jewellery, Eyecare and Others",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            }
+          ]
+        },
+        {
+          "text": "In FY2026, the standalone jewellery business reached ₹61,148 crore excluding bullion, while watches reached ₹5,233 crore and EyeCare ₹907 crore. These divisional figures are not the consolidated statutory revenue mix.",
+          "citations": [
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 125,
+              "quote": "The revenue from Jewellery business grew by 31% touching `61,148 crore",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 125,
+              "quote": "recorded a revenue of `5,233 crore",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 125,
+              "quote": "grew by 14% to `907 crore.",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Jewellery supplied about 90.4% of FY2026 consolidated segment revenue including other income (₹79,660 crore of ₹88,136 crore, calculated), making it the dominant economic exposure. Watches contributed approximately 6.0%.",
+          "citations": [
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 434,
+              "quote": "Jewellery 79,660 53,966 7,209 4,899",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 434,
+              "quote": "Watches 5,267 4,598 824 548",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 434,
+              "quote": "88,136 60,942 8,082 5,488",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "Revenue definitions differ: statutory revenue includes bullion/digi-gold, while business highlights often exclude them."
+      ]
+    },
+    "financial": {
+      "summary": "Annual profitability recovered strongly; the latest statutory quarter also contains a material fair-value credit.",
+      "points": [
+        {
+          "text": "Consolidated FY2026 revenue was ₹87,584 crore and PAT ₹5,073 crore, compared with ₹60,456 crore and ₹3,337 crore in FY2025.",
+          "citations": [
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 376,
+              "quote": "Revenue from operations 20 87,584 60,456",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 376,
+              "quote": "Profit for the year (IX - X) 5,073 3,337",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Q2 FY2027 statutory consolidated PBT was ₹3,000 crore and PAT ₹2,393 crore. The filing’s business highlights use lower adjusted figures after excluding a ₹671 crore Damas-related credit.",
+          "citations": [
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 10,
+              "quote": "Profit before tax (VIII - IX) 3,000 2,429 1,522",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            },
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 10,
+              "quote": "Profit for the period (X - XI) 2,393 1,777 1,120",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            },
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 3,
+              "quote": "This amount is ₹671 crores.",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            },
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 3,
+              "quote": "Profit before Tax 1,522 2,329 53%",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The September 2026 consolidated debt-to-equity ratio was 1.51×, versus 0.97× a year earlier; the filing defines debt for this ratio as borrowings plus lease liabilities. This definition is broader than borrowings alone.",
+          "citations": [
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 15,
+              "quote": "1.51 1.01 0.97 1.51 0.97 0.93",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            },
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 15,
+              "quote": "Debt consists borrowings and lease liabilities",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "EBIT, operating margin and EBITDA are distinct. No EBITDA number is substituted from an operating-profit label."
+      ]
+    },
+    "trajectory": {
+      "summary": "Revenue expansion has outpaced the FY2025 earnings setback, but comparability needs discipline.",
+      "points": [
+        {
+          "text": "Revenue rose from ₹51,084 crore in FY2024 to ₹60,456 crore in FY2025 and ₹87,584 crore in FY2026; consolidated PAT moved ₹3,496 → ₹3,337 → ₹5,073 crore.",
+          "citations": [
+            {
+              "documentId": "82097f705720c751d17a",
+              "page": 368,
+              "quote": "Revenue from operations 20 60,456 51,084",
+              "title": "TITAN Annual Report 2025",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92f76ec9-cc9b-4534-ad82-2cbd920a55b7.pdf"
+            },
+            {
+              "documentId": "82097f705720c751d17a",
+              "page": 368,
+              "quote": "Profit for the year (VIII-IX) 3,337 3,496",
+              "title": "TITAN Annual Report 2025",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92f76ec9-cc9b-4534-ad82-2cbd920a55b7.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 376,
+              "quote": "Revenue from operations 20 87,584 60,456",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 376,
+              "quote": "Profit for the year (IX - X) 5,073 3,337",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The annual report identifies jewellery as the principal growth engine, with watches premiumisation and a return to double-digit EyeCare growth also contributing.",
+          "citations": [
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 125,
+              "quote": "The Jewellery Division was the principal growth engine",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 125,
+              "quote": "The EyeCare business returned to a double-digit growth momentum",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": []
+    },
+    "balance": {
+      "summary": "Inventory and short-term funding deserve as much attention as headline profit growth.",
+      "points": [
+        {
+          "text": "At March 2026 consolidated inventories were ₹42,743 crore versus ₹28,184 crore a year earlier; current borrowings were ₹11,285 crore and gold on loan ₹16,070 crore.",
+          "citations": [
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 375,
+              "quote": "Inventories 10 42,743 28,184",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 375,
+              "quote": "Borrowings 17.1 11,285 9,691",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 375,
+              "quote": "Gold on loan 17.2 16,070 7,810",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The September 2026 debt reconciliation shows borrowings of ₹24,265 crore versus ₹9,646 crore at September 2025. Management separately describes the proposed ₹2,500 crore NCD raise as refinancing existing borrowing, not incremental funding.",
+          "citations": [
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 13,
+              "quote": "Closing balance 24,265 9,646",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            },
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 7,
+              "quote": "This is a replenishment of some of the existing borrowing. It is not additional borrowing.",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "Gold-on-loan, lease liabilities and ordinary borrowings should be shown separately rather than collapsed into an unexplained debt ratio."
+      ]
+    },
+    "cash": {
+      "summary": "FY2026 cash conversion recovered, following a working-capital-driven FY2025 outflow.",
+      "points": [
+        {
+          "text": "Annual consolidated operating cash flow moved from ₹1,695 crore in FY2024 to −₹541 crore in FY2025 and ₹5,590 crore in FY2026; FY2026 PAT was ₹5,073 crore.",
+          "citations": [
+            {
+              "documentId": "82097f705720c751d17a",
+              "page": 370,
+              "quote": "Net cash (used in)/generated from operating activities A (541) 1,695",
+              "title": "TITAN Annual Report 2025",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92f76ec9-cc9b-4534-ad82-2cbd920a55b7.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 378,
+              "quote": "Net cash generated from/(used in) operating activities A 5,590 (541)",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 376,
+              "quote": "Profit for the year (IX - X) 5,073 3,337",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        },
+        {
+          "text": "FY2026 operating cash flow less ₹902 crore of disclosed fixed/intangible/investment-property purchases equals ₹4,688 crore by this simple FCF definition (calculated). Cash generation also depended on ₹7,304 crore growth in gold-on-loan funding while inventories absorbed ₹11,592 crore.",
+          "citations": [
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 378,
+              "quote": "Net cash generated from/(used in) operating activities A 5,590 (541)",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 378,
+              "quote": "(902) (494)",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 378,
+              "quote": "increase in gold on loan 7,304 2,468",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 378,
+              "quote": "(increase)/decrease in inventories (11,592) (9,072)",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "This simple FCF measure excludes acquisitions, financial investments and lease principal; it is not a company-reported FCF metric."
+      ]
+    },
+    "narrative": {
+      "summary": "Separate structural growth from customs-duty and Damas accounting effects before judging delivery.",
+      "points": [
+        {
+          "text": "The latest call identifies ₹490 crore customs-duty gains in Titan jewellery and ₹46 crore in CaratLane; management quotes 11.1% Titan jewellery margin after normalising the duty gain.",
+          "citations": [
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 3,
+              "quote": "₹490 crores for quarter two in Titan Jewellery division and ₹46 crores in CaratLane.",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            },
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 3,
+              "quote": "Normalized margin, once you do adjustment for this, on Titan Jewellery business would be 11.1%.",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The ₹671 crore Damas put-option liability remeasurement explains the difference between statutory Q2 PBT ₹3,000 crore and the ₹2,329 crore business-highlight PBT. Treating these as interchangeable would overstate operating delivery.",
+          "citations": [
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 3,
+              "quote": "This amount is ₹671 crores.",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            },
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 10,
+              "quote": "Profit before tax (VIII - IX) 3,000 2,429 1,522",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            },
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 3,
+              "quote": "Profit before Tax 1,522 2,329 53%",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "A management margin anchor is not a precise promise for every quarter. The scorecard leaves ambiguous quarterly comparisons unassessed."
+      ]
+    },
+    "guidance": {
+      "summary": "Management anchors jewellery margins around 11%, while explicitly resisting precise near-term commitments.",
+      "points": [
+        {
+          "text": "In August management declined new guidance and described 11% as the jewellery-margin “center of gravity”, acknowledging possible variation as gold prices move.",
+          "citations": [
+            {
+              "documentId": "445e3fda9488d9f9ae80",
+              "page": 5,
+              "quote": "No, we are not giving any guidance at this point of time.",
+              "title": "TITAN Earnings-call transcript Aug 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf"
+            },
+            {
+              "documentId": "445e3fda9488d9f9ae80",
+              "page": 5,
+              "quote": "11% being the center of gravity for jewellery business margin",
+              "title": "TITAN Earnings-call transcript Aug 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf"
+            }
+          ]
+        },
+        {
+          "text": "In November the CFO retained the roughly 11% anchor and said it would be reconsidered after FY2027 closes; this is a broad margin stance rather than a quarterly revenue forecast.",
+          "citations": [
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 17,
+              "quote": "we can confidently deliver margin which is anchored around 11%",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            },
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 17,
+              "quote": "I will wait for the full financial year 2027 to be closed",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": []
+    },
+    "bullBear": {
+      "summary": "Bull: brand-led growth and recovered cash generation. Bear: funding intensity and one-off-rich earnings.",
+      "points": [
+        {
+          "text": "Bull case (inference): jewellery-led expansion and FY2026 operating cash flow above PAT provide evidence of business momentum and improved annual cash conversion.",
+          "citations": [
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 125,
+              "quote": "the revenue stood at `87,584 crore as against `60,456 crore in the previous year.",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 378,
+              "quote": "Net cash generated from/(used in) operating activities A 5,590 (541)",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 376,
+              "quote": "Profit for the year (IX - X) 5,073 3,337",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Bear case (inference): increased inventories/borrowing, management’s expectation of rising competition and the latest accounting gains make unadjusted profit growth an incomplete measure of sustainable returns.",
+          "citations": [
+            {
+              "documentId": "edc69dec8d68ca1e68ed",
+              "page": 375,
+              "quote": "Inventories 10 42,743 28,184",
+              "title": "TITAN Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+            },
+            {
+              "documentId": "58b16251e898cfb7933a",
+              "page": 13,
+              "quote": "Closing balance 24,265 9,646",
+              "title": "TITAN Outcome of Board Meeting 2026-11-05",
+              "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+            },
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 17,
+              "quote": "competitive intensity is only going to increase.",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            },
+            {
+              "documentId": "25070159c7c6e25a92d1",
+              "page": 3,
+              "quote": "This amount is ₹671 crores.",
+              "title": "TITAN Earnings-call transcript Nov 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": []
+    }
+  },
+  "facts": [
+    {
+      "metric": "Revenue",
+      "value": 87584,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "edc69dec8d68ca1e68ed",
+        "page": 376,
+        "quote": "Revenue from operations 20 87,584 60,456",
+        "title": "TITAN Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 60456,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "edc69dec8d68ca1e68ed",
+        "page": 376,
+        "quote": "Revenue from operations 20 87,584 60,456",
+        "title": "TITAN Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 5073,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "edc69dec8d68ca1e68ed",
+        "page": 376,
+        "quote": "Profit for the year (IX - X) 5,073 3,337",
+        "title": "TITAN Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 3337,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "edc69dec8d68ca1e68ed",
+        "page": 376,
+        "quote": "Profit for the year (IX - X) 5,073 3,337",
+        "title": "TITAN Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": 5590,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "edc69dec8d68ca1e68ed",
+        "page": 378,
+        "quote": "Net cash generated from/(used in) operating activities A 5,590 (541)",
+        "title": "TITAN Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": -541,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "edc69dec8d68ca1e68ed",
+        "page": 378,
+        "quote": "Net cash generated from/(used in) operating activities A 5,590 (541)",
+        "title": "TITAN Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 51084,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "82097f705720c751d17a",
+        "page": 368,
+        "quote": "Revenue from operations 20 60,456 51,084",
+        "title": "TITAN Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92f76ec9-cc9b-4534-ad82-2cbd920a55b7.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 3496,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "82097f705720c751d17a",
+        "page": 368,
+        "quote": "Profit for the year (VIII-IX) 3,337 3,496",
+        "title": "TITAN Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92f76ec9-cc9b-4534-ad82-2cbd920a55b7.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": 1695,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "82097f705720c751d17a",
+        "page": 370,
+        "quote": "Net cash (used in)/generated from operating activities A (541) 1,695",
+        "title": "TITAN Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92f76ec9-cc9b-4534-ad82-2cbd920a55b7.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 6801,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated",
+      "source": {
+        "documentId": "edc69dec8d68ca1e68ed",
+        "page": 376,
+        "quote": "Profit before tax (VII - VIII) 6,801 4,535",
+        "title": "TITAN Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 3000,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated, statutory including fair-value credit",
+      "source": {
+        "documentId": "58b16251e898cfb7933a",
+        "page": 10,
+        "quote": "Profit before tax (VIII - IX) 3,000 2,429 1,522",
+        "title": "TITAN Outcome of Board Meeting 2026-11-05",
+        "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 2393,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated, statutory including fair-value credit",
+      "source": {
+        "documentId": "58b16251e898cfb7933a",
+        "page": 10,
+        "quote": "Profit for the period (X - XI) 2,393 1,777 1,120",
+        "title": "TITAN Outcome of Board Meeting 2026-11-05",
+        "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+      }
+    },
+    {
+      "metric": "Debt-to-equity",
+      "value": 1.51,
+      "unit": "x",
+      "period": "Q2 FY2027",
+      "basis": "consolidated; debt includes borrowings and lease liabilities",
+      "source": {
+        "documentId": "58b16251e898cfb7933a",
+        "page": 15,
+        "quote": "1.51 1.01 0.97 1.51 0.97 0.93",
+        "title": "TITAN Outcome of Board Meeting 2026-11-05",
+        "url": "https://nsearchives.nseindia.in/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf"
+      }
+    }
+  ],
+  "guidance": [
+    {
+      "statement": "Jewellery margin remains anchored around 11%.",
+      "metric": "Jewellery operating margin",
+      "target": "around 11%",
+      "issued": "Nov 2026",
+      "period": "FY2027 stance; reconsider after year-end",
+      "conditions": "Gold prices and competitive intensity can change quarterly outcomes; not a point forecast.",
+      "source": {
+        "documentId": "25070159c7c6e25a92d1",
+        "page": 17,
+        "quote": "we can confidently deliver margin which is anchored around 11%",
+        "title": "TITAN Earnings-call transcript Nov 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+      }
+    }
+  ],
+  "scorecard": [
+    {
+      "quarter": "Q2 FY2027",
+      "promise": "August management retained an approximately 11% jewellery-margin anchor while declining new precise guidance.",
+      "actual": "November management reported normalized Titan jewellery margin of 11.1%.",
+      "status": "not_assessable",
+      "rationale": "Directionally consistent with the anchor, but no precise quarterly commitment or defined tolerance was made; no met/missed verdict.",
+      "promiseSource": {
+        "documentId": "445e3fda9488d9f9ae80",
+        "page": 5,
+        "quote": "No, we are not giving any guidance at this point of time.",
+        "title": "TITAN Earnings-call transcript Aug 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf"
+      },
+      "actualSource": {
+        "documentId": "25070159c7c6e25a92d1",
+        "page": 3,
+        "quote": "Normalized margin, once you do adjustment for this, on Titan Jewellery business would be 11.1%.",
+        "title": "TITAN Earnings-call transcript Nov 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+      }
+    },
+    {
+      "quarter": "Q1 FY2027",
+      "promise": "No independently matched, explicit quarterly target was established in the reviewed prior passages.",
+      "actual": "Statutory consolidated PAT was ₹1,777 crore.",
+      "status": "not_assessable",
+      "rationale": "Do not convert broad growth commentary into a numerical quarterly promise.",
+      "promiseSource": null,
+      "actualSource": {
+        "documentId": "113a36f0b31826b191d8",
+        "page": 9,
+        "quote": "Profit for the period (IX - X) 1,777 1,179 1,091",
+        "title": "TITAN Outcome of Board Meeting 2026-08-07",
+        "url": "https://nsearchives.nseindia.in/corporate/TITAN_07082026160159_SEresultQ127.pdf"
+      }
+    },
+    {
+      "quarter": "Q4 FY2026",
+      "promise": "In February management said it was too early to guide on the rest of the quarter.",
+      "actual": "Statutory consolidated PAT was ₹1,179 crore.",
+      "status": "not_assessable",
+      "rationale": "An explicit refusal to guide cannot be scored as an earnings miss.",
+      "promiseSource": {
+        "documentId": "e35a86bf92a70fe20351",
+        "page": 4,
+        "quote": "it's too early to call out or give you a guidance",
+        "title": "TITAN Earnings-call transcript Feb 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf"
+      },
+      "actualSource": {
+        "documentId": "e6a199a814210f3aad37",
+        "page": 20,
+        "quote": "Profit for the period (IX - X) 1,179 1,684 871",
+        "title": "TITAN Outcome of Board Meeting 2026-05-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TITAN_08052026135234_SEoutcomeBMQ4202526.pdf"
+      }
+    },
+    {
+      "quarter": "Q3 FY2026",
+      "promise": "November commentary sought consistent margin delivery, while acknowledging uncertainty around gold prices.",
+      "actual": "Statutory consolidated PAT was ₹1,684 crore after an exceptional labour-code charge.",
+      "status": "not_assessable",
+      "rationale": "The prior statement was qualitative, not a quarter-specific profit target; no fair met/missed assessment.",
+      "promiseSource": {
+        "documentId": "a27ed97885fe5264d34e",
+        "page": 7,
+        "quote": "some pluses and minuses can happen because of this.",
+        "title": "TITAN Earnings-call transcript Nov 2025",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
+      },
+      "actualSource": {
+        "documentId": "091e4801e5640d1497b7",
+        "page": 14,
+        "quote": "Profit for the period (IX- X) 1,684 1,120 1,047",
+        "title": "TITAN Outcome of Board Meeting 2026-02-10",
+        "url": "https://nsearchives.nseindia.in/corporate/TITAN_10022026165938_SEoutcomeofBMQ3.pdf"
+      }
+    }
+  ],
+  "symbol": "TITAN",
+  "generatedAt": "2026-11-15T13:29:52.996692+00:00",
+  "documentCount": 15,
+  "coverage": {
+    "annualReports": 3,
+    "transcripts": 7,
+    "results": 5,
+    "periods": [
+      "2025-11-03",
+      "2026-02-10",
+      "2026-05-08",
+      "2026-08-07",
+      "2026-11-05",
+      "Aug 2025",
+      "Aug 2026",
+      "FY2024",
+      "FY2025",
+      "FY2026",
+      "Feb 2026",
+      "Jun 2026",
+      "May 2025",
+      "Nov 2025",
+      "Nov 2026"
+    ]
+  },
+  "cached": true,
+  "analysisMode": "prepared",
+  "preparedBy": "AI-assisted primary-source review"
+}

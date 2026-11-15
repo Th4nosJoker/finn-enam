@@ -1,0 +1,31 @@
+{
+  "documentCount": 60,
+  "fullTextPageCount": 6994,
+  "cachedPageCount": 1848,
+  "coverage": {
+    "INFY/annual_report": 3,
+    "INFY/transcript": 7,
+    "TCS/annual_report": 3,
+    "TCS/transcript": 7,
+    "TITAN/annual_report": 3,
+    "TITAN/transcript": 7,
+    "POLYCAB/annual_report": 3,
+    "POLYCAB/transcript": 7,
+    "TCS/results": 5,
+    "INFY/results": 5,
+    "TITAN/results": 5,
+    "POLYCAB/results": 5
+  },
+  "fullCorpusBytes": 23331747,
+  "portableCorpusBytes": 5917376,
+  "selectionPolicy": "Full transcripts; up to48 annual-report and32 result pages selected for financial statements, segments, business, debt, cash, outlook. Full source documents remain available.",
+  "sourceFiles": [
+    "companies.json",
+    "prices.json",
+    "announcements.json",
+    "universe.json",
+    "documents.json",
+    "documents-compact.json",
+    "source-checks.json"
+  ]
+}

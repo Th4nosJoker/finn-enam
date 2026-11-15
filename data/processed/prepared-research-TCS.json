@@ -1,0 +1,1013 @@
+{
+  "symbol": "TCS",
+  "headline": "AI expands; currency and exceptional costs complicate the growth story.",
+  "views": {
+    "business": {
+      "summary": "A broad enterprise-technology franchise, with BFSI still its largest revenue engine.",
+      "points": [
+        {
+          "text": "TCS supplies IT services, consulting and business solutions across application management, digital transformation, AI, data/cloud, engineering, cybersecurity and products/platforms.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 55,
+              "quote": "TCS is an IT services, consulting and business solutions organisation",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "BFSI generated ₹103,363 crore in FY2026, about 38.7% of revenue; Consumer Business contributed ₹42,432 crore. The company reports industry verticals as its business segments.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 60,
+              "quote": "Banking, Financial Services and Insurance 103,363 94,597 9.3 26.1 26.6",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 60,
+              "quote": "Consumer Business 42,432 40,197 5.6 28.5 27.9",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "By Q2 FY2027, management said annualised AI revenue had reached US$3.1 billion and exceeded 10% of company revenue. This is an annualised run-rate, not revenue booked in one quarter.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 4,
+              "quote": "Annualized AI revenue reached $3.1 billion and crossed 10% of our overall revenue.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": []
+    },
+    "financial": {
+      "summary": "Q2 FY2027 revenue was ₹73,188 crore; total consolidated PAT was ₹13,934 crore.",
+      "points": [
+        {
+          "text": "For the quarter ended 30 September2026, consolidated revenue was ₹73,188 crore, PBT ₹18,638 crore and total PAT ₹13,934 crore. Owners’ PAT was separately ₹13,884 crore.",
+          "citations": [
+            {
+              "documentId": "5179bb0306b4cde2ed74",
+              "page": 8,
+              "quote": "Revenue from operations 73,188 72,275 65,799",
+              "title": "TCS Outcome of Board Meeting 2026-10-08",
+              "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+            },
+            {
+              "documentId": "5179bb0306b4cde2ed74",
+              "page": 8,
+              "quote": "PROFIT BEFORE TAX 18,638 17,944 16,068",
+              "title": "TCS Outcome of Board Meeting 2026-10-08",
+              "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+            },
+            {
+              "documentId": "5179bb0306b4cde2ed74",
+              "page": 8,
+              "quote": "PROFIT FOR THE PERIOD 13,934 13,420 12,131",
+              "title": "TCS Outcome of Board Meeting 2026-10-08",
+              "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+            },
+            {
+              "documentId": "5179bb0306b4cde2ed74",
+              "page": 8,
+              "quote": "Shareholders of the Company 13,884 13,349 12,075",
+              "title": "TCS Outcome of Board Meeting 2026-10-08",
+              "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Management reported Q2 operating margin of 24% and net margin of 19%. Operating margin is not an EBITDA margin.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 5,
+              "quote": "Our operating margins remained stable sequentially at 24%.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 6,
+              "quote": "Our net margins for the quarter were 19%.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        },
+        {
+          "text": "FY2026 revenue was ₹267,021 crore and total PAT ₹49,454 crore. Reported PBT included ₹1,388 crore restructuring, ₹2,128 crore Labour Code and ₹1,010 crore legal-claim exceptional charges; adjusted headline profitability must not be confused with reported profit.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 168,
+              "quote": "Revenue from operations 12 2,67,021 2,55,324",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 168,
+              "quote": "PROFIT FOR THE YEAR 49,454 48,797",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 168,
+              "quote": "Re-structuring expenses 25 1,388 - Statutory impact of new Labour Codes 26 2,128 - Provision towards legal claim 20 1,010 -",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "No independently reported EBITDA figure is substituted for operating profit. TotalPAT includes non-controlling interests; owners’ PAT is shown separately."
+      ]
+    },
+    "trajectory": {
+      "summary": "Rupee revenue keeps rising, while constant-currency growth gives a more restrained picture.",
+      "points": [
+        {
+          "text": "Consolidated revenue rose from ₹240,893 crore in FY2024 to ₹255,324 crore in FY2025 and ₹267,021 crore in FY2026. TotalPAT rose from ₹46,099 crore to ₹48,797 crore and ₹49,454 crore over the same periods.",
+          "citations": [
+            {
+              "documentId": "93c064a371406274cb17",
+              "page": 182,
+              "quote": "Revenue from operations 12 2,55,324 2,40,893",
+              "title": "TCS Annual Report 2025",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb9f9e0a-e4ce-4a4e-997e-0b5de8c2bec0.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 168,
+              "quote": "Revenue from operations 12 2,67,021 2,55,324",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "93c064a371406274cb17",
+              "page": 182,
+              "quote": "PROFIT FOR THE YEAR 48,797 46,099",
+              "title": "TCS Annual Report 2025",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb9f9e0a-e4ce-4a4e-997e-0b5de8c2bec0.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 168,
+              "quote": "PROFIT FOR THE YEAR 49,454 48,797",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "FY2026 rupee revenue grew 4.6%, but management reported a2.4% decline in constant currency. The currency-adjusted contraction tempers the headline growth narrative.",
+          "citations": [
+            {
+              "documentId": "c65de88be86866a8871e",
+              "page": 7,
+              "quote": "revenue was ₹267,021 crore, which is a growth of 4.6% on a YoY basis.",
+              "title": "TCS Earnings-call transcript Apr 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf"
+            },
+            {
+              "documentId": "c65de88be86866a8871e",
+              "page": 7,
+              "quote": "revenue declined 2.4% YoY.",
+              "title": "TCS Earnings-call transcript Apr 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Growth varies materially by business: FY2026 BFSI revenue grew 9.3%, while Communication, Media and Technology declined 14.0%. Q2 FY2027 group constant-currency revenue growth was 2.8% YoY.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 60,
+              "quote": "Banking, Financial Services and Insurance 103,363 94,597 9.3 26.1 26.6",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 60,
+              "quote": "Communication, Media and Technology 39,474 45,893 (14.0) 29.1 20.9",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 5,
+              "quote": "our growth was 50 basis points QoQ and 2.8% YoY.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": []
+    },
+    "balance": {
+      "summary": "Substantial equity and investments support liquidity, but receivable days have lengthened.",
+      "points": [
+        {
+          "text": "At31 March2026, consolidated equity was ₹108,478 crore against total assets of ₹182,372 crore. This is approximately 59.5% equity funding, calculated from the reported balance sheet; lease obligations remain part of financial liabilities.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 167,
+              "quote": "Total equity 1,08,478 95,771",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 167,
+              "quote": "TOTAL ASSETS 1,82,372 1,59,629",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 167,
+              "quote": "Lease liabilities",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Current assets were ₹135,705 crore and current liabilities ₹60,914 crore at FY2026 year-end. The company’s invested-funds presentation totalled ₹50,020 crore, versus ₹47,222 crore in FY2025; these funds should not all be treated as immediately withdrawable cash.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 167,
+              "quote": "Total current assets 1,35,705 1,23,011",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 167,
+              "quote": "Total current liabilities 60,914 53,001",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 60,
+              "quote": "Total 50,020 47,222",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "US-dollar DSO increased from 67 days in FY2024 to 71 in FY2025 and 74 in FY2026. The latest Q2 FY2027 call still reported 74 days, unchanged sequentially—an investor should watch collection efficiency rather than infer a fresh quarterly deterioration.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 71,
+              "quote": "Days 74 71 67 65 64 68 67 69 74 73",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 6,
+              "quote": "DSO stood at 74 days, constant sequentially in dollar terms.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "A detailed borrowing-maturity or adjusted net-debt reconstruction is not included; the existence of lease liabilities is retained."
+      ]
+    },
+    "cash": {
+      "summary": "Annual operating cash flow exceeds reported profit, with a clearly defined capex proxy still leaving substantial cash.",
+      "points": [
+        {
+          "text": "Operating cash flow rose from ₹44,338 crore in FY2024 to ₹48,908 crore in FY2025 and ₹52,094 crore in FY2026. FY2026 CFO was approximately 105.3% of total PAT (₹49,454 crore), a calculated conversion ratio.",
+          "citations": [
+            {
+              "documentId": "93c064a371406274cb17",
+              "page": 185,
+              "quote": "Net cash flows generated from operating activities 48,908 44,338",
+              "title": "TCS Annual Report 2025",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb9f9e0a-e4ce-4a4e-997e-0b5de8c2bec0.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 173,
+              "quote": "Net cash flows generated from operating activities 52,094 48,908",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 168,
+              "quote": "PROFIT FOR THE YEAR 49,454 48,797",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "A defined FCF proxy—CFO less cash purchases of property/plant/equipment and intangibles—was ₹48,057 crore in FY2026 (52,094−3,670−367), versus ₹45,047 crore in FY2025 (48,908−2,917−944). It excludes lease/right-of-use payments, acquired assets and business acquisitions, so it is not total cash available after every investment.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 173,
+              "quote": "Net cash flows generated from operating activities 52,094 48,908",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 173,
+              "quote": "Payment for purchase of property, plant and equipment (3,670) (2,917)",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 173,
+              "quote": "Payment for purchase of intangible assets (367) (944)",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The latest call reported cash conversion of 102.2% of net income. The company’s FY2026 annual cash-conversion presentation uses PAT attributable to owners, so its ratio is a different denominator from the total PAT conversion calculated above.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 6,
+              "quote": "Our cash conversion remains strong at 102.2% of net income",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 71,
+              "quote": "Operating Cash Flows / Profit after tax attributable to shareholders of the Company",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": []
+    },
+    "narrative": {
+      "summary": "AI traction is visible, but group growth and near-term margins still constrain the story.",
+      "points": [
+        {
+          "text": "Management’s AI-scaling narrative is supported by a US$3.1 billion annualised AI-revenue run-rate exceeding 10% of revenue. Yet the wider company’s Q2 constant-currency growth was 2.8% YoY: the AI signal should not be mistaken for equivalent growth across the whole franchise.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 4,
+              "quote": "Annualized AI revenue reached $3.1 billion and crossed 10% of our overall revenue.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 5,
+              "quote": "our growth was 50 basis points QoQ and 2.8% YoY.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The investment-versus-margin trade-off is observable: Q1 operating margin fell 130 bps to 24%, primarily because of wage hikes; Q2 held 24% as strategic partnerships, acquisitions and niche-talent investment continued. This supports an investment explanation, not proof that all spending will earn an adequate return.",
+          "citations": [
+            {
+              "documentId": "7304ccab6460b3283c95",
+              "page": 4,
+              "quote": "our operating margins stood at 24%, down 130 bps sequentially, primarily due to wage hikes.",
+              "title": "TCS Earnings-call transcript Jul 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 5,
+              "quote": "In Q2, we made investments in strategic partnerships, M&A-related initiatives, and hiring of niche talent.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The 26–28% margin ambition remains a long-term aspiration, while the current operating margin is24%. Without a dated near-term commitment, the gap cannot fairly be scored as a missed quarterly promise.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 15,
+              "quote": "our long-term aspiration remains unchanged, continues to be 26% to 28%.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 5,
+              "quote": "Our operating margins remained stable sequentially at 24%.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": []
+    },
+    "guidance": {
+      "summary": "Separate a 26–28% long-term margin ambition from explicit, dated earnings guidance.",
+      "points": [
+        {
+          "text": "TCS expressly says it does not provide specific revenue or earnings guidance. The research view therefore records absent numerical quarterly guidance instead of inventing a target.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 3,
+              "quote": "we don't provide any specific revenue or earnings guidance",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        },
+        {
+          "text": "The CFO restated a long-term operating-margin aspiration of 26–28%, while saying near-term investment for growth takes priority. No fixed quarter for reaching that band is stated in this passage.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 15,
+              "quote": "our long-term aspiration remains unchanged, continues to be 26% to 28%.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 15,
+              "quote": "In the near term, we will continue to prioritize investments for growth.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Management expects improved growth to create scale efficiency and continues to cite cost optimisation, productivity and utilisation levers. These are conditional, qualitative expectations, not an explicitly quantified near-term financial commitment.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 5,
+              "quote": "As growth improves, we expect to benefit from enhanced scale",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 27,
+              "quote": "See, as we said, we are making those investments, and we are prioritizing them.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": [
+        "No explicit quantified group capex or quarterly revenue target has been validated in this prepared review."
+      ]
+    },
+    "bullBear": {
+      "summary": "The upside case is AI conversion plus cash generation; the downside case is uneven demand and an expensive transition.",
+      "points": [
+        {
+          "text": "Bull case (inference): rising AI revenue and the sizeable transformation order book could widen the growth engine. Q2 annualised AI revenue wasUS$3.1 billion; quarterly TCV wasUS$9.6 billion, excluding the Porsche and Best Buy deals. TCV and annualised revenue are not immediate recognised revenue.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 4,
+              "quote": "Annualized AI revenue reached $3.1 billion",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 3,
+              "quote": "TCV for the quarter was US$9.6 billion. This excludes the Porsche and Best Buy deals.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Bull case (inference): ₹52,094 crore FY2026 operating cash flow and ₹50,020 crore of invested funds provide resources for capability building and shareholder distributions, subject to the actual liquidity of those investments.",
+          "citations": [
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 173,
+              "quote": "Net cash flows generated from operating activities 52,094 48,908",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 60,
+              "quote": "Total 50,020 47,222",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        },
+        {
+          "text": "Bear case (inference): discretionary programs remain under scrutiny, current margins are 24%, and FY2026 Communication/Media/Technology revenue fell 14%. AI investment may take time to offset weakness elsewhere or raise group margins towards the long-term aspiration.",
+          "citations": [
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 4,
+              "quote": "discretionary programs without near-term value remain under scrutiny.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "710aa5e20f216032708b",
+              "page": 5,
+              "quote": "Our operating margins remained stable sequentially at 24%.",
+              "title": "TCS Earnings-call transcript Oct 2026",
+              "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+            },
+            {
+              "documentId": "5cc5df7e2c7db6eeea7f",
+              "page": 60,
+              "quote": "Communication, Media and Technology 39,474 45,893 (14.0) 29.1 20.9",
+              "title": "TCS Annual Report 2026",
+              "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+            }
+          ]
+        }
+      ],
+      "limitations": []
+    }
+  },
+  "facts": [
+    {
+      "metric": "Revenue",
+      "value": 240893,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "93c064a371406274cb17",
+        "page": 182,
+        "quote": "Revenue from operations 12 2,55,324 2,40,893",
+        "title": "TCS Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb9f9e0a-e4ce-4a4e-997e-0b5de8c2bec0.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 255324,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5cc5df7e2c7db6eeea7f",
+        "page": 168,
+        "quote": "Revenue from operations 12 2,67,021 2,55,324",
+        "title": "TCS Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 267021,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5cc5df7e2c7db6eeea7f",
+        "page": 168,
+        "quote": "Revenue from operations 12 2,67,021 2,55,324",
+        "title": "TCS Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 46099,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "93c064a371406274cb17",
+        "page": 182,
+        "quote": "PROFIT FOR THE YEAR 48,797 46,099",
+        "title": "TCS Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb9f9e0a-e4ce-4a4e-997e-0b5de8c2bec0.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 48797,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5cc5df7e2c7db6eeea7f",
+        "page": 168,
+        "quote": "PROFIT FOR THE YEAR 49,454 48,797",
+        "title": "TCS Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 49454,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5cc5df7e2c7db6eeea7f",
+        "page": 168,
+        "quote": "PROFIT FOR THE YEAR 49,454 48,797",
+        "title": "TCS Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": 44338,
+      "unit": "INR crore",
+      "period": "FY2024",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "93c064a371406274cb17",
+        "page": 185,
+        "quote": "Net cash flows generated from operating activities 48,908 44,338",
+        "title": "TCS Annual Report 2025",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/bb9f9e0a-e4ce-4a4e-997e-0b5de8c2bec0.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": 48908,
+      "unit": "INR crore",
+      "period": "FY2025",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5cc5df7e2c7db6eeea7f",
+        "page": 173,
+        "quote": "Net cash flows generated from operating activities 52,094 48,908",
+        "title": "TCS Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+      }
+    },
+    {
+      "metric": "CFO",
+      "value": 52094,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5cc5df7e2c7db6eeea7f",
+        "page": 173,
+        "quote": "Net cash flows generated from operating activities 52,094 48,908",
+        "title": "TCS Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 73188,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "Revenue from operations 73,188 72,275 65,799",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 72275,
+      "unit": "INR crore",
+      "period": "Q1 FY2027",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "Revenue from operations 73,188 72,275 65,799",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "Revenue",
+      "value": 65799,
+      "unit": "INR crore",
+      "period": "Q2 FY2026",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "Revenue from operations 73,188 72,275 65,799",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 18638,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "PROFIT BEFORE TAX 18,638 17,944 16,068",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 17944,
+      "unit": "INR crore",
+      "period": "Q1 FY2027",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "PROFIT BEFORE TAX 18,638 17,944 16,068",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "PBT",
+      "value": 16068,
+      "unit": "INR crore",
+      "period": "Q2 FY2026",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "PROFIT BEFORE TAX 18,638 17,944 16,068",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 13934,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "PROFIT FOR THE PERIOD 13,934 13,420 12,131",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 13420,
+      "unit": "INR crore",
+      "period": "Q1 FY2027",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "PROFIT FOR THE PERIOD 13,934 13,420 12,131",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "PAT",
+      "value": 12131,
+      "unit": "INR crore",
+      "period": "Q2 FY2026",
+      "basis": "consolidated; total profit including non-controlling interests where applicable",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "PROFIT FOR THE PERIOD 13,934 13,420 12,131",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "PAT attributable to owners",
+      "value": 13884,
+      "unit": "INR crore",
+      "period": "Q2 FY2027",
+      "basis": "consolidated; attributable to shareholders of TCS",
+      "source": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "Shareholders of the Company 13,884 13,349 12,075",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "metric": "Operating margin",
+      "value": 24,
+      "unit": "%",
+      "period": "Q2 FY2027",
+      "basis": "management-reported consolidated operating margin; not EBITDA",
+      "source": {
+        "documentId": "710aa5e20f216032708b",
+        "page": 5,
+        "quote": "Our operating margins remained stable sequentially at 24%.",
+        "title": "TCS Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+      }
+    },
+    {
+      "metric": "Equity",
+      "value": 108478,
+      "unit": "INR crore",
+      "period": "FY2026",
+      "basis": "consolidated total equity including non-controlling interests",
+      "source": {
+        "documentId": "5cc5df7e2c7db6eeea7f",
+        "page": 167,
+        "quote": "Total equity 1,08,478 95,771",
+        "title": "TCS Annual Report 2026",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf"
+      }
+    }
+  ],
+  "guidance": [
+    {
+      "statement": "TCS does not provide specific revenue or earnings guidance.",
+      "metric": "Revenue / earnings",
+      "target": "Not issued",
+      "issued": "October 2026 earnings call",
+      "period": "Quarterly target not supplied",
+      "conditions": "Forward-looking commentary is subject to risks and is not a numerical commitment.",
+      "source": {
+        "documentId": "710aa5e20f216032708b",
+        "page": 3,
+        "quote": "we don't provide any specific revenue or earnings guidance",
+        "title": "TCS Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+      }
+    },
+    {
+      "statement": "Long-term operating-margin aspiration remains 26–28%.",
+      "metric": "Operating margin",
+      "target": "26–28%",
+      "issued": "October 2026 earnings call",
+      "period": "Long term; no fixed target quarter",
+      "conditions": "Near-term investments for growth remain prioritised; aspiration, not a dated quarterly promise.",
+      "source": {
+        "documentId": "710aa5e20f216032708b",
+        "page": 15,
+        "quote": "our long-term aspiration remains unchanged, continues to be 26% to 28%.",
+        "title": "TCS Earnings-call transcript Oct 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7dc14216-f892-46f1-bf82-5c7b387a83b9.pdf"
+      }
+    }
+  ],
+  "scorecard": [
+    {
+      "quarter": "Q2 FY2027",
+      "promise": "The preceding earnings call explicitly said TCS does not provide specific revenue or earnings guidance.",
+      "actual": "Reported consolidated quarterly revenue: ₹73,188 crore.",
+      "status": "not_assessable",
+      "rationale": "No numeric revenue/earnings promise with this quarter as its target horizon is established. The earlier no-guidance statement predates the result; a long-term margin aspiration is not converted into a quarterly promise.",
+      "promiseSource": {
+        "documentId": "7304ccab6460b3283c95",
+        "page": 3,
+        "quote": "don't provide any specific revenue or earnings guidance",
+        "title": "TCS Earnings-call transcript Jul 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=27523cab-de62-4f78-939a-6d9853bbd060.pdf"
+      },
+      "actualSource": {
+        "documentId": "5179bb0306b4cde2ed74",
+        "page": 8,
+        "quote": "Revenue from operations 73,188 72,275 65,799",
+        "title": "TCS Outcome of Board Meeting 2026-10-08",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf"
+      }
+    },
+    {
+      "quarter": "Q1 FY2027",
+      "promise": "The preceding earnings call explicitly said TCS does not provide specific revenue or earnings guidance.",
+      "actual": "Reported consolidated quarterly revenue: ₹72,275 crore.",
+      "status": "not_assessable",
+      "rationale": "No numeric revenue/earnings promise with this quarter as its target horizon is established. The earlier no-guidance statement predates the result; a long-term margin aspiration is not converted into a quarterly promise.",
+      "promiseSource": {
+        "documentId": "c65de88be86866a8871e",
+        "page": 3,
+        "quote": "don't provide any specific revenue or earnings guidance",
+        "title": "TCS Earnings-call transcript Apr 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=07ae2d32-1050-4e80-96ff-eb2d98378d4e.pdf"
+      },
+      "actualSource": {
+        "documentId": "9bac162a9f37d87cdc35",
+        "page": 8,
+        "quote": "Revenue from operations 72,275 70,698 63,437",
+        "title": "TCS Outcome of Board Meeting 2026-07-09",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_09072026155158_Post_BM_SE_Lettersigned.pdf"
+      }
+    },
+    {
+      "quarter": "Q4 FY2026",
+      "promise": "The preceding earnings call explicitly said TCS does not provide specific revenue or earnings guidance.",
+      "actual": "Reported consolidated quarterly revenue: ₹70,698 crore.",
+      "status": "not_assessable",
+      "rationale": "No numeric revenue/earnings promise with this quarter as its target horizon is established. The earlier no-guidance statement predates the result; a long-term margin aspiration is not converted into a quarterly promise.",
+      "promiseSource": {
+        "documentId": "7f208394cee811e39c60",
+        "page": 3,
+        "quote": "don't provide any specific revenue or earnings guidance",
+        "title": "TCS Earnings-call transcript Jan 2026",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d70edbab-d5b2-47ae-8820-efacc5052d13.pdf"
+      },
+      "actualSource": {
+        "documentId": "5a7685fe0a9eebec7c43",
+        "page": 9,
+        "quote": "Revenue from operations 70,698 67,087 64,479",
+        "title": "TCS Outcome of Board Meeting 2026-04-09",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_09042026155026_SE_Outcome_signed.pdf"
+      }
+    },
+    {
+      "quarter": "Q3 FY2026",
+      "promise": "The preceding earnings call explicitly said TCS does not provide specific revenue or earnings guidance.",
+      "actual": "Reported consolidated quarterly revenue: ₹67,087 crore.",
+      "status": "not_assessable",
+      "rationale": "No numeric revenue/earnings promise with this quarter as its target horizon is established. The earlier no-guidance statement predates the result; a long-term margin aspiration is not converted into a quarterly promise.",
+      "promiseSource": {
+        "documentId": "5c2778ed2ea5ce8f2473",
+        "page": 3,
+        "quote": "don't provide any specific revenue or earnings guidance",
+        "title": "TCS Earnings-call transcript Oct 2025",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56f7fbb9-5cf4-49e1-95ef-62af7ad2a999.pdf"
+      },
+      "actualSource": {
+        "documentId": "644a8e645716ec18e147",
+        "page": 8,
+        "quote": "Revenue from operations 67,087 65,799 63,973",
+        "title": "TCS Outcome of Board Meeting 2026-01-12",
+        "url": "https://nsearchives.nseindia.in/corporate/TCS_CORPCS_12012026154849_Post_BM_SE_Letter_final.pdf"
+      }
+    }
+  ],
+  "generatedAt": "2026-11-15T13:28:32.883371+00:00",
+  "documentCount": 15,
+  "coverage": {
+    "annualReports": 3,
+    "transcripts": 7,
+    "results": 5,
+    "periods": [
+      "2025-10-09",
+      "2026-01-12",
+      "2026-04-09",
+      "2026-07-09",
+      "2026-10-08",
+      "Apr 2026",
+      "Dec 2025",
+      "FY2024",
+      "FY2025",
+      "FY2026",
+      "Jan 2026",
+      "Jul 2026",
+      "Nov 2025",
+      "Oct 2025",
+      "Oct 2026"
+    ]
+  },
+  "cached": true,
+  "analysisMode": "prepared",
+  "preparedBy": "AI-assisted primary-source review"
+}
